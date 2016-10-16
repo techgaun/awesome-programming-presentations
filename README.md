@@ -7,6 +7,7 @@ This awesome list documents list of video presentations and conference talks tha
 - [General](#general)
 - [Programming Languages](#programming-languages)
   - [Python](#python)
+- [Computer Security](#computer-security)
 - [Contributing](#contributing)
 
 ### General
@@ -18,6 +19,10 @@ This awesome list documents list of video presentations and conference talks tha
 #### Python
 
 - [Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+
+### Computer Security
+
+- [Pwned By the owner What happens when you steal a hackers computer - Defcon 18](https://www.youtube.com/watch?v=U4oB28ksiIo)
 
 ### Contributing
 
