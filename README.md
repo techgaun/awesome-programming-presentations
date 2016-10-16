@@ -6,6 +6,7 @@ This awesome list documents list of video presentations and conference talks tha
 
 - [General](#general)
 - [Programming Languages](#programming-languages)
+  - [CSS](#css)
   - [Python](#python)
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
@@ -16,6 +17,10 @@ This awesome list documents list of video presentations and conference talks tha
 - [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
 
 ### Programming Languages
+
+#### CSS
+
+- [3.14 Things I Didn't Know About CSS - CSSconf EU 2014](https://www.youtube.com/watch?v=WjP7TEKB7Uo)
 
 #### Python
 
