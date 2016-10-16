@@ -7,6 +7,7 @@ This awesome list documents list of video presentations and conference talks tha
 - [General](#general)
 - [Programming Languages](#programming-languages)
   - [Python](#python)
+- [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
 - [Contributing](#contributing)
 
@@ -19,6 +20,10 @@ This awesome list documents list of video presentations and conference talks tha
 #### Python
 
 - [Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+
+### Cloud Computing
+
+- [A Day in the Life of a Netflix Engineer - AWS re:Invent 2015](https://www.youtube.com/watch?v=-mL3zT1iIKw)
 
 ### Computer Security
 
