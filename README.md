@@ -10,6 +10,7 @@ This awesome list documents list of video presentations and conference talks tha
   - [Python](#python)
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
+- [Misc](#misc)
 - [Contributing](#contributing)
 
 ### General
@@ -33,6 +34,10 @@ This awesome list documents list of video presentations and conference talks tha
 ### Computer Security
 
 - [Pwned By the owner What happens when you steal a hackers computer - Defcon 18](https://www.youtube.com/watch?v=U4oB28ksiIo)
+
+### Misc
+
+- [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
 ### Contributing
 
