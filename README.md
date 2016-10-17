@@ -26,6 +26,7 @@ This awesome list documents list of video presentations and conference talks tha
 #### Python
 
 - [Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+- [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) by _David Beazley_
 
 ### Cloud Computing
 
@@ -37,7 +38,7 @@ This awesome list documents list of video presentations and conference talks tha
 
 ### Misc
 
-- [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
 
 ### Contributing
 
