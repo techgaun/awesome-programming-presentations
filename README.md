@@ -16,6 +16,7 @@ This awesome list documents list of video presentations and conference talks tha
 ### General
 
 - [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
+- [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM)
 
 ### Programming Languages
 
