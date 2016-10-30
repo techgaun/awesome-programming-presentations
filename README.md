@@ -7,6 +7,7 @@ This awesome list documents list of video presentations and conference talks tha
 - [General](#general)
 - [Programming Languages](#programming-languages)
   - [CSS](#css)
+  - [Javascript](#javascript)
   - [Python](#python)
   - [Ruby](#ruby)
 - [Cloud Computing](#cloud-computing)
@@ -26,6 +27,10 @@ This awesome list documents list of video presentations and conference talks tha
 #### CSS
 
 - [3.14 Things I Didn't Know About CSS - CSSconf EU 2014](https://www.youtube.com/watch?v=WjP7TEKB7Uo)
+
+#### Javascript
+
+- [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) by _Anjana Vakil_
 
 #### Python
 
