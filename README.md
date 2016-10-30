@@ -8,6 +8,7 @@ This awesome list documents list of video presentations and conference talks tha
 - [Programming Languages](#programming-languages)
   - [CSS](#css)
   - [Python](#python)
+  - [Ruby](#ruby)
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
 - [Misc](#misc)
@@ -28,6 +29,10 @@ This awesome list documents list of video presentations and conference talks tha
 
 - [Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) by _David Beazley_
+
+#### Ruby
+
+- [Nothing is Something - RailsConf 2015](https://www.youtube.com/watch?v=OMPfEXIlTVE) by _Sandi Metz_
 
 ### Cloud Computing
 
