@@ -2,7 +2,7 @@
 
 > Presentations that programmers should watch
 
-This awesome list documents list of video presentations and conference talks that all programmers would benefit by watching.
+This awesome list documents list of video presentations and conference talks that all programmers would benefit by watching. This list began when I started making habit of watching presentations and talks on weekly basis.
 
 - [General](#general)
 - [Programming Languages](#programming-languages)
@@ -20,6 +20,7 @@ This awesome list documents list of video presentations and conference talks tha
 - [Computers are a sadness, I am the cure](https://vimeo.com/95066828) by _James Mickens_
 - [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by _Guy Steele_
 - [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
+- [The Future of Programming](https://vimeo.com/71278954) by _Bret Victor_
 - [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) by _Brian Fitzpatrick & Ben Collins-Sussman_
 - [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM)
 
