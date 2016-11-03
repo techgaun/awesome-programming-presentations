@@ -22,6 +22,7 @@ This awesome list documents list of video presentations and conference talks tha
 - [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
 - [The Future of Programming](https://vimeo.com/71278954) by _Bret Victor_
 - [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) by _Brian Fitzpatrick & Ben Collins-Sussman_
+- [The Worst Programming Language](https://www.infoq.com/presentations/worst-programming-language) by _Mark Rendle_
 - [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM)
 
 ### Programming Languages
