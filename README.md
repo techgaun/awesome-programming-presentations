@@ -7,6 +7,7 @@ This awesome list documents list of video presentations and conference talks tha
 - [General](#general)
 - [Programming Languages](#programming-languages)
   - [CSS](#css)
+  - [Elixir](#elixir)
   - [Javascript](#javascript)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -30,6 +31,10 @@ This awesome list documents list of video presentations and conference talks tha
 #### CSS
 
 - [3.14 Things I Didn't Know About CSS - CSSconf EU 2014](https://www.youtube.com/watch?v=WjP7TEKB7Uo)
+
+#### Elixir
+
+- [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) by _Bram Verburg_ (Applies to Erlang as well in general)
 
 #### Javascript
 
