@@ -34,6 +34,7 @@ This awesome list documents list of video presentations and conference talks tha
 
 #### Elixir
 
+- [Phoenix - Productive. Reliable. Fast](https://www.youtube.com/watch?v=STO-uN0xHDQ) by _Chris McCord_
 - [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) by _Bram Verburg_ (Applies to Erlang as well in general)
 
 #### Javascript
