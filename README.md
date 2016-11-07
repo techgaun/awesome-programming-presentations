@@ -63,6 +63,7 @@ This awesome list documents list of video presentations and conference talks tha
 ### Misc
 
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
+- [WAT](https://www.destroyallsoftware.com/talks/wat) - by _Gary Bernhardt_
 
 ### Contributing
 
