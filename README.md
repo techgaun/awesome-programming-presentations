@@ -74,6 +74,7 @@ If you are here with bad mood or want to watch fun ones to hear, you should [sta
 - [Perfectly Executing The Wrong Plan](https://www.youtube.com/watch?v=9TJTbRw4ri8) - by _Tomer Sharon_
 - [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
 - [Single Point of Failure: The (Fictional) Day Google Forgot To Check Passwords](https://www.youtube.com/watch?v=y4GB_NDU43Q) - by _Tom Scott_
+- [The Birth & Death of Javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - by _Gary Bernhardt_
 - [The Worst Programming Language](https://www.infoq.com/presentations/worst-programming-language) by _Mark Rendle_
 - [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) - by _Scott Hanselman_
 - [WAT](https://www.destroyallsoftware.com/talks/wat) - by _Gary Bernhardt_
