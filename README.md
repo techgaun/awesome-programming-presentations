@@ -64,6 +64,7 @@ This awesome list documents list of video presentations and conference talks tha
 
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
 - [It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997) - by _James Mickens_
+- [Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control](https://vimeo.com/180568023) - by _James Mickens_
 - [Life is Terrible: Lets Talk About The Web](https://vimeo.com/111122950) - by _James Mickens_
 - [Perfectly Executing The Wrong Plan](https://www.youtube.com/watch?v=9TJTbRw4ri8) - by _Tomer Sharon_
 - [WAT](https://www.destroyallsoftware.com/talks/wat) - by _Gary Bernhardt_
