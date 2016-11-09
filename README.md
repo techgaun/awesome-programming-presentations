@@ -62,8 +62,9 @@ This awesome list documents list of video presentations and conference talks tha
 
 ### Misc
 
-- [Life is Terrible: Lets Talk About The Web](https://vimeo.com/111122950) - by _James Mickens_
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
+- [Life is Terrible: Lets Talk About The Web](https://vimeo.com/111122950) - by _James Mickens_
+- [Perfectly Executing The Wrong Plan](https://www.youtube.com/watch?v=9TJTbRw4ri8) - by _Tomer Sharon_
 - [WAT](https://www.destroyallsoftware.com/talks/wat) - by _Gary Bernhardt_
 
 ### Contributing
