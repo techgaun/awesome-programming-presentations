@@ -4,6 +4,8 @@
 
 This awesome list documents list of video presentations and conference talks that all programmers would benefit by watching. This list began when I started making habit of watching presentations and talks on weekly basis.
 
+If you are here with bad mood or want to watch fun ones to hear, you should [start here](#fun-to-watch).
+
 - [General](#general)
 - [Programming Languages](#programming-languages)
   - [CSS](#css)
@@ -14,16 +16,15 @@ This awesome list documents list of video presentations and conference talks tha
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
 - [Misc](#misc)
+  - [Fun to Watch](#fun-to-watch)
 - [Contributing](#contributing)
 
 ### General
 
-- [Computers are a sadness, I am the cure](https://vimeo.com/95066828) by _James Mickens_
 - [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by _Guy Steele_
-- [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
+- [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
 - [The Future of Programming](https://vimeo.com/71278954) by _Bret Victor_
 - [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) by _Brian Fitzpatrick & Ben Collins-Sussman_
-- [The Worst Programming Language](https://www.infoq.com/presentations/worst-programming-language) by _Mark Rendle_
 - [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM)
 
 ### Programming Languages
@@ -62,11 +63,15 @@ This awesome list documents list of video presentations and conference talks tha
 
 ### Misc
 
-- [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
+#### Fun to Watch
+
+- [Computers are a sadness, I am the cure](https://vimeo.com/95066828) by _James Mickens_
 - [It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997) - by _James Mickens_
 - [Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control](https://vimeo.com/180568023) - by _James Mickens_
 - [Life is Terrible: Lets Talk About The Web](https://vimeo.com/111122950) - by _James Mickens_
 - [Perfectly Executing The Wrong Plan](https://www.youtube.com/watch?v=9TJTbRw4ri8) - by _Tomer Sharon_
+- [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
+- [The Worst Programming Language](https://www.infoq.com/presentations/worst-programming-language) by _Mark Rendle_
 - [WAT](https://www.destroyallsoftware.com/talks/wat) - by _Gary Bernhardt_
 
 ### Contributing
