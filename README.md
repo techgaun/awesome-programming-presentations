@@ -69,6 +69,7 @@ If you are here with bad mood or want to watch fun ones to hear, you should [sta
 - [It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997) - by _James Mickens_
 - [Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control](https://vimeo.com/180568023) - by _James Mickens_
 - [Life is Terrible: Lets Talk About The Web](https://vimeo.com/111122950) - by _James Mickens_
+- [Not Even Close: The State of Computer Security ](https://vimeo.com/135347162) - by _James Mickens_
 - [Perfectly Executing The Wrong Plan](https://www.youtube.com/watch?v=9TJTbRw4ri8) - by _Tomer Sharon_
 - [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
 - [The Worst Programming Language](https://www.infoq.com/presentations/worst-programming-language) by _Mark Rendle_
