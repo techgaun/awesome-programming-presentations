@@ -65,6 +65,7 @@ If you are here with bad mood or want to watch fun ones to hear, you should [sta
 
 #### Fun to Watch
 
+- [Best Practices for Software Development](https://www.youtube.com/watch?v=1cXquTPBpWo) - by _Chet Haase_
 - [Computers are a sadness, I am the cure](https://vimeo.com/95066828) by _James Mickens_
 - [It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997) - by _James Mickens_
 - [Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control](https://vimeo.com/180568023) - by _James Mickens_
