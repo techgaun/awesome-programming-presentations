@@ -6,6 +6,8 @@ This awesome list documents list of video presentations and conference talks tha
 
 If you are here with bad mood or want to watch fun ones to hear, you should [start here](#fun-to-watch).
 
+If you need some inspiration, [start with this](https://www.youtube.com/watch?v=oioj24KQRvM) :D
+
 - [General](#general)
 - [Programming Languages](#programming-languages)
   - [CSS](#css)
