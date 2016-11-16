@@ -49,6 +49,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### Python
 
 - [Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) - by _Raymond Hettinger_
+- [Decorators: A Powerful Weapon in your Python Arsenal](https://www.youtube.com/watch?v=9oyr0mocZTg) - by _Colton Myers_
 - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) - by _David Beazley_
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) - by _Raymond Hettinger_
 
