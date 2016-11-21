@@ -23,6 +23,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ### General
 
+- [Dissecting Git's Guts](https://www.youtube.com/watch?v=Y2Msq90ZknI) - by _Emily Xie_
 - [Git](https://www.youtube.com/watch?v=idLyobOhtO4) - by _Linus Torvalds_
 - [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by _Guy Steele_
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
