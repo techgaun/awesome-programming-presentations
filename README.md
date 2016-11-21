@@ -62,6 +62,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ### Cloud Computing
 
 - [A Day in the Life of a Netflix Engineer - AWS re:Invent 2015](https://www.youtube.com/watch?v=-mL3zT1iIKw)
+- [Scaling at GitHub](https://www.youtube.com/watch?v=f7ecUqHxD7o) - by _Patrick Reynolds_
 
 ### Computer Security
 
