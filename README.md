@@ -12,6 +12,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Programming Languages](#programming-languages)
   - [CSS](#css)
   - [Elixir](#elixir)
+  - [Go](#go)
   - [Javascript](#javascript)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -44,6 +45,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Phoenix - Productive. Reliable. Fast](https://www.youtube.com/watch?v=STO-uN0xHDQ) by _Chris McCord_
 - [Processing 2.7M Images with Elixir (vs Ruby)](https://www.youtube.com/watch?v=xoNRtWl4fZU) by _David Padilla_
 - [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) by _Bram Verburg_ (Applies to Erlang as well in general)
+
+#### Go
+
+- [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) - by _Rob Pike_
 
 #### Javascript
 
