@@ -48,11 +48,11 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 #### Go
 
+- [Program your next server in Go](https://www.youtube.com/watch?v=5bYO60-qYOI) - by _Sameer Ajmani_
 - [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) - by _Rob Pike_
 
 #### Javascript
 
-- [Program your next server in Go](https://www.youtube.com/watch?v=5bYO60-qYOI) - by _Sameer Ajmani_
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) by _Anjana Vakil_
 
 #### Python
