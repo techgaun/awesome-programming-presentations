@@ -18,6 +18,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Ruby](#ruby)
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
+- [Microservices](#microservices)
 - [Misc](#misc)
   - [Fun to Watch](#fun-to-watch)
 - [Contributing](#contributing)
@@ -79,6 +80,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ### Computer Security
 
 - [Pwned By the owner What happens when you steal a hackers computer - Defcon 18](https://www.youtube.com/watch?v=U4oB28ksiIo)
+
+### Microservices
+
+- [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY) - by _R. Meshenberg_
 
 ### Misc
 
