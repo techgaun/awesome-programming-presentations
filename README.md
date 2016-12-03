@@ -40,6 +40,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### CSS
 
 - [3.14 Things I Didn't Know About CSS - CSSconf EU 2014](https://www.youtube.com/watch?v=WjP7TEKB7Uo)
+- [CSS for Software Engineers for CSS Developers](https://www.youtube.com/watch?v=wFn5nel3j6w) - by _Harry Roberts_
 
 #### Elixir
 
