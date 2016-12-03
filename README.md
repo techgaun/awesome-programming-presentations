@@ -110,6 +110,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### IDEs/Editors
 
 - [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM) - by _Max Cantor_
+- [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0) - by _Chris Toomey_
 - [vim + tmux](https://www.youtube.com/watch?v=5r6yzFEXajQ) - by _Nick Nisi_
 
 ### Contributing
