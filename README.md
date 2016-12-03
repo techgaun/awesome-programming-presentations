@@ -105,6 +105,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) - by _Scott Hanselman_
 - [WAT](https://www.destroyallsoftware.com/talks/wat) - by _Gary Bernhardt_
 
+#### IDEs/Editors
+
+- [vim + tmux](https://www.youtube.com/watch?v=5r6yzFEXajQ) - by _Nick Nisi_
+
 ### Contributing
 
 This list is incomplete without community support so please help make this list better.
