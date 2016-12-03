@@ -58,6 +58,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### Javascript
 
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) by _Anjana Vakil_
+- [RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg) - by _Jay Phelps_
 
 #### Python
 
