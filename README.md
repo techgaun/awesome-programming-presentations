@@ -44,6 +44,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 #### Elixir
 
+- [Building Umbrella Project](https://www.youtube.com/watch?v=6NTmUQClHrU) - by _Wojtek Mach_
 - [Debugging Techniques in Elixir](https://www.youtube.com/watch?v=pj6zAgvVt5w) - by _Erich Kist_
 - [GenStage in the Kitchen](https://www.youtube.com/watch?v=M78r_PDlw2c) - by _Claudio Ortolina_
 - [OOP in Elixir - Lightning Talk](https://www.youtube.com/watch?v=5EtV2JUU0Z4) by _Wojtek Mach_
