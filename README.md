@@ -31,9 +31,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
 - [Linux Kernel Development](https://www.youtube.com/watch?v=vyenmLqJQjs) - by _Greg Kroah-Hartman_
 - [Overkill](https://www.youtube.com/watch?v=GWEEPt8VvmU) - by _Katrina Owen_
-- [The Future of Programming](https://vimeo.com/71278954) by _Bret Victor_
-- [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) by _Brian Fitzpatrick & Ben Collins-Sussman_
-- [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM)
+- [Systems programming as a swiss army knife](https://www.youtube.com/watch?v=HfD9IMZ9rKY) - by _Julia Evans_
+- [The Future of Programming](https://vimeo.com/71278954) - by _Bret Victor_
+- [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - by _Brian Fitzpatrick & Ben Collins-Sussman_
+- [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) - by _Julia Evans_
 
 ### Programming Languages
 
