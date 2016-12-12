@@ -21,6 +21,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Microservices](#microservices)
 - [Misc](#misc)
   - [Fun to Watch](#fun-to-watch)
+  - [IDEs and Editors](#ides-and-editors)
 - [Contributing](#contributing)
 
 ### General
@@ -33,6 +34,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Overkill](https://www.youtube.com/watch?v=GWEEPt8VvmU) - by _Katrina Owen_
 - [Systems programming as a swiss army knife](https://www.youtube.com/watch?v=HfD9IMZ9rKY) - by _Julia Evans_
 - [The Future of Programming](https://vimeo.com/71278954) - by _Bret Victor_
+- [The Motivation for a Monolithic Codebase](https://www.youtube.com/watch?v=W71BTkUbdqE) - by _Rachel Potvin_
 - [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - by _Brian Fitzpatrick & Ben Collins-Sussman_
 - [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) - by _Julia Evans_
 
@@ -111,7 +113,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) - by _Scott Hanselman_
 - [WAT](https://www.destroyallsoftware.com/talks/wat) - by _Gary Bernhardt_
 
-#### IDEs/Editors
+#### IDEs and Editors
 
 - [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM) - by _Max Cantor_
 - [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0) - by _Chris Toomey_
