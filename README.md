@@ -22,12 +22,11 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Misc](#misc)
   - [Fun to Watch](#fun-to-watch)
   - [IDEs and Editors](#ides-and-editors)
+  - [Version Control](#version-control)
 - [Contributing](#contributing)
 
 ### General
 
-- [Dissecting Git's Guts](https://www.youtube.com/watch?v=Y2Msq90ZknI) - by _Emily Xie_
-- [Git](https://www.youtube.com/watch?v=idLyobOhtO4) - by _Linus Torvalds_
 - [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by _Guy Steele_
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
 - [Linux Kernel Development](https://www.youtube.com/watch?v=vyenmLqJQjs) - by _Greg Kroah-Hartman_
@@ -73,6 +72,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) - by _Raymond Hettinger_
 - [Crypto 101](https://www.youtube.com/watch?v=3rmCGsCYJF8) - by _Laurens Van Houtven_
 - [Decorators: A Powerful Weapon in your Python Arsenal](https://www.youtube.com/watch?v=9oyr0mocZTg) - by _Colton Myers_
+- [Learn Python Through Public Data Hacking](https://www.youtube.com/watch?v=RrPZza_vZ3w) - by _David Beazley_
 - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) - by _David Beazley_
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) - by _Raymond Hettinger_
 
@@ -118,6 +118,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM) - by _Max Cantor_
 - [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0) - by _Chris Toomey_
 - [vim + tmux](https://www.youtube.com/watch?v=5r6yzFEXajQ) - by _Nick Nisi_
+
+#### Version Control
+- [Dissecting Git's Guts](https://www.youtube.com/watch?v=Y2Msq90ZknI) - by _Emily Xie_
+- [Git](https://www.youtube.com/watch?v=idLyobOhtO4) - by _Linus Torvalds_
 
 ### Contributing
 
