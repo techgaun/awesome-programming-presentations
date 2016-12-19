@@ -73,6 +73,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Builtin Superheroes](https://www.youtube.com/watch?v=j6VSAsKAj98) - by _David Beazley_
 - [Crypto 101](https://www.youtube.com/watch?v=3rmCGsCYJF8) - by _Laurens Van Houtven_
 - [Decorators: A Powerful Weapon in your Python Arsenal](https://www.youtube.com/watch?v=9oyr0mocZTg) - by _Colton Myers_
+- [Fear and Awaiting in Async: A Savage Journey to the Heart of the Coroutine Dream](https://www.youtube.com/watch?v=E-1Y4kSsAFc) - by _David Beazley_
 - [Learn Python Through Public Data Hacking](https://www.youtube.com/watch?v=RrPZza_vZ3w) - by _David Beazley_
 - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) - by _David Beazley_
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) - by _Raymond Hettinger_
