@@ -120,6 +120,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM) - by _Max Cantor_
 - [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0) - by _Chris Toomey_
 - [More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) - by _Damian Conway_
+- [Precision Editing at the Speed of Thought](https://vimeo.com/53144573) - by _Drew Neil_
 - [vim + tmux](https://www.youtube.com/watch?v=5r6yzFEXajQ) - by _Nick Nisi_
 
 #### Version Control
