@@ -77,6 +77,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Learn Python Through Public Data Hacking](https://www.youtube.com/watch?v=RrPZza_vZ3w) - by _David Beazley_
 - [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) - by _David Beazley_
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) - by _Raymond Hettinger_
+- [Understanding the Python GIL](https://www.youtube.com/watch?v=Obt-vMVdM8s) - by _David Beazley_
 
 #### Ruby
 
