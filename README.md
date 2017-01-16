@@ -32,6 +32,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Linux Kernel Development](https://www.youtube.com/watch?v=vyenmLqJQjs) - by _Greg Kroah-Hartman_
 - [Overkill](https://www.youtube.com/watch?v=GWEEPt8VvmU) - by _Katrina Owen_
 - [Systems programming as a swiss army knife](https://www.youtube.com/watch?v=HfD9IMZ9rKY) - by _Julia Evans_
+- [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) - by _Bob Martin_
 - [The Future of Programming](https://vimeo.com/71278954) - by _Bret Victor_
 - [The Motivation for a Monolithic Codebase](https://www.youtube.com/watch?v=W71BTkUbdqE) - by _Rachel Potvin_
 - [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - by _Brian Fitzpatrick & Ben Collins-Sussman_
