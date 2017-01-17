@@ -55,6 +55,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [OOP in Elixir - Lightning Talk](https://www.youtube.com/watch?v=5EtV2JUU0Z4) by _Wojtek Mach_
 - [Phoenix - Productive. Reliable. Fast](https://www.youtube.com/watch?v=STO-uN0xHDQ) by _Chris McCord_
 - [Processing 2.7M Images with Elixir (vs Ruby)](https://www.youtube.com/watch?v=xoNRtWl4fZU) by _David Padilla_
+- [QuickCheck for Elixir - Generate Tests Automatically](https://www.youtube.com/watch?v=nbpZRm9gl50) - by _Thomas Arts_
 - [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) by _Bram Verburg_ (Applies to Erlang as well in general)
 - [The Joy of Connecting Elixir to the Physical World](https://www.youtube.com/watch?v=SVy7gRU_-P8) - by _Frank Hunleth_
 
