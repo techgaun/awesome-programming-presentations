@@ -31,6 +31,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
 - [Linux Kernel Development](https://www.youtube.com/watch?v=vyenmLqJQjs) - by _Greg Kroah-Hartman_
 - [Overkill](https://www.youtube.com/watch?v=GWEEPt8VvmU) - by _Katrina Owen_
+- [System We Love](https://www.youtube.com/watch?v=TPe6UXMDMGM)
 - [Systems programming as a swiss army knife](https://www.youtube.com/watch?v=HfD9IMZ9rKY) - by _Julia Evans_
 - [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) - by _Bob Martin_
 - [The Future of Programming](https://vimeo.com/71278954) - by _Bret Victor_
