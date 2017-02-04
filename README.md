@@ -53,6 +53,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Dialyzer: Optimistic Type Checking for Erlang and Elixir](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) - by _Jason Voegele_
 - [Discovering Processes](https://www.youtube.com/watch?v=y_b6RTes83c) - by _Saša Jurić_
 - [GenStage in the Kitchen](https://www.youtube.com/watch?v=M78r_PDlw2c) - by _Claudio Ortolina_
+- [Metaprogramming Elixir](https://vimeo.com/131643017) - by _Chris McCord_
 - [OOP in Elixir - Lightning Talk](https://www.youtube.com/watch?v=5EtV2JUU0Z4) by _Wojtek Mach_
 - [Phoenix - Productive. Reliable. Fast](https://www.youtube.com/watch?v=STO-uN0xHDQ) by _Chris McCord_
 - [Processing 2.7M Images with Elixir (vs Ruby)](https://www.youtube.com/watch?v=xoNRtWl4fZU) by _David Padilla_
