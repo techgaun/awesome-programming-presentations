@@ -16,6 +16,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Javascript](#javascript)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Scala](#scala)
 - [Paradigms and Principles](paradigms-and-principles)
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
@@ -92,7 +93,12 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [Nothing is Something - RailsConf 2015](https://www.youtube.com/watch?v=OMPfEXIlTVE) by _Sandi Metz_
 
+#### Scala
+
+- [Striving to Make Things Simple and Fast](https://www.youtube.com/watch?v=K2NYwP90bNs) - by _Phil Bagwell_
+
 ### Paradigms and Principles
+
 - [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) - by _Evan Czaplicki_
 
 ### Cloud Computing
