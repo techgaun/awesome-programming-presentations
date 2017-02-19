@@ -69,6 +69,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### Javascript
 
 - [Benchmarking Javascript](https://www.youtube.com/watch?v=g0ek4vV7nEA) - by _Vyacheslav Egorov_
+- [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) - by _Lee Byron_
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) by _Anjana Vakil_
 - [Performance and benchmarking](https://www.youtube.com/watch?v=65-RbBwZQdU) - By _Vyacheslav Egorov_
 - [RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg) - by _Jay Phelps_
