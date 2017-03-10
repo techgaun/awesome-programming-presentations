@@ -76,9 +76,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) - by _Lee Byron_
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) by _Anjana Vakil_
 - [Performance and benchmarking](https://www.youtube.com/watch?v=65-RbBwZQdU) - By _Vyacheslav Egorov_
+- [Really. Javascript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) - by _Douglas Crockford_
 - [RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg) - by _Jay Phelps_
 - [The myth of the "Real JavaScript Developer"](https://www.youtube.com/watch?v=Xt5qpbiqw2g) - by _Brenna O'Brien_
-- [Really. Javascript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) - by _Douglas Crockford_
+- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ' by _Philip Roberts_
 
 #### Python
 
@@ -127,6 +128,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Best Practices for Software Development](https://www.youtube.com/watch?v=1cXquTPBpWo) - by _Chet Haase_
 - [Computers are a sadness, I am the cure](https://vimeo.com/95066828) by _James Mickens_
 - [Developer Stand up Comedy](http://media.ch9.ms/ch9/1ea0/ef05d6a9-86a1-43bd-af65-9ed200a41ea0/devdays054_high_ch9.mp4) - by _Scott Hanselman_
+- [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) - by _Ashley Williams_
 - [It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997) - by _James Mickens_
 - [Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control](https://vimeo.com/180568023) - by _James Mickens_
 - [Life is Terrible: Lets Talk About The Web](https://vimeo.com/111122950) - by _James Mickens_
@@ -139,7 +141,6 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) - by _Scott Hanselman_
 - [WAT](https://www.destroyallsoftware.com/talks/wat) - by _Gary Bernhardt_
 - [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os) - by _Jacob Thornton_
-- [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) - by _Ashley Williams_
 - [WTFJS](https://www.youtube.com/watch?v=et8xNAc2ic8) - by _Brian Leroux_
 
 #### IDEs and Editors
