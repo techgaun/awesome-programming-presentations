@@ -141,6 +141,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os) - by _Jacob Thornton_
 - [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) - by _Ashley Williams_
 - [WTFJS](https://www.youtube.com/watch?v=et8xNAc2ic8) - by _Brian Leroux_
+
 #### IDEs and Editors
 
 - [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM) - by _Max Cantor_
