@@ -77,6 +77,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Performance and benchmarking](https://www.youtube.com/watch?v=65-RbBwZQdU) - By _Vyacheslav Egorov_
 - [RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg) - by _Jay Phelps_
 - [The myth of the "Real JavaScript Developer"](https://www.youtube.com/watch?v=Xt5qpbiqw2g) - by _Brenna O'Brien_
+- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ' by _Philip Roberts_
 
 #### Python
 
