@@ -138,6 +138,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) - by _Scott Hanselman_
 - [WAT](https://www.destroyallsoftware.com/talks/wat) - by _Gary Bernhardt_
 - [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os) - by _Jacob Thornton_
+- [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) - by _Ashley Williams_
 
 #### IDEs and Editors
 
