@@ -20,6 +20,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Paradigms and Principles](paradigms-and-principles)
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
+- [Database Systems](#database-systems)
 - [Microservices](#microservices)
 - [Misc](#misc)
   - [Fun to Watch](#fun-to-watch)
@@ -116,6 +117,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ### Computer Security
 
 - [Pwned By the owner What happens when you steal a hackers computer - Defcon 18](https://www.youtube.com/watch?v=U4oB28ksiIo)
+
+### Database Systems
+
+- [PostgreSQL + ZFS: Best Practices and Standard Procedures](https://www.youtube.com/watch?v=dwMQXLOXUco&t=5564) - by _Sean Chittenden_ (Other good stuff as well on the channel)
 
 ### Microservices
 
