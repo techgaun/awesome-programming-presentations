@@ -41,12 +41,14 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [The Future of Programming](https://vimeo.com/71278954) - by _Bret Victor_
 - [The Motivation for a Monolithic Codebase](https://www.youtube.com/watch?v=W71BTkUbdqE) - by _Rachel Potvin_
 - [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - by _Brian Fitzpatrick & Ben Collins-Sussman_
+- [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) - by _Leslie Lamport_
 - [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) - by _Julia Evans_
 
 ### Programming Languages
 
 #### Bash
 
+- [Introduction to Advanced Bash Usage](https://www.youtube.com/watch?v=uqHjc7hlqd0) - by _James Pannacciulli_
 - [The Functional Tao of Bash](https://www.youtube.com/watch?v=yD2ekOEP9sU) - by _Garrett Smith_
 
 #### CSS
