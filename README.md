@@ -10,6 +10,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [General](#general)
 - [Programming Languages](#programming-languages)
+  - [Bash](#bash)
   - [CSS](#css)
   - [Elixir](#elixir)
   - [Go](#go)
@@ -43,6 +44,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) - by _Julia Evans_
 
 ### Programming Languages
+
+#### Bash
+
+- [The Functional Tao of Bash](https://www.youtube.com/watch?v=yD2ekOEP9sU) - by _Garrett Smith_
 
 #### CSS
 
