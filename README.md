@@ -76,6 +76,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 #### Go
 
+- [Inside the Map Implementation](https://www.youtube.com/watch?v=Tl7mi9QmLns) - by _Keith Randall_
 - [Program your next server in Go](https://www.youtube.com/watch?v=5bYO60-qYOI) - by _Sameer Ajmani_
 - [Self Deploying Go Applications](https://www.youtube.com/watch?v=nhmAyZNlECw) - by _Kelsey Hightower_
 - [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM) - by _Rob Pike_
