@@ -76,6 +76,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### Go
 
 - [Program your next server in Go](https://www.youtube.com/watch?v=5bYO60-qYOI) - by _Sameer Ajmani_
+- [Self Deploying Go Applications](https://www.youtube.com/watch?v=nhmAyZNlECw) - by _Kelsey Hightower_
 - [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM) - by _Rob Pike_
 - [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) - by _Rob Pike_
 
@@ -121,6 +122,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [12-Factor Apps and the Hashistack](https://www.youtube.com/watch?v=Nosa5-xcATw) - by _Kelsey Hightower_
 - [A Day in the Life of a Netflix Engineer - AWS re:Invent 2015](https://www.youtube.com/watch?v=-mL3zT1iIKw)
 - [Cluster Management at Google with Borg](https://www.youtube.com/watch?v=0W49z8hVn0k) - by _John Wilkes_
+- [Container management and deployment: from development to production](https://www.youtube.com/watch?v=XL9CQobFB8I) - by _Kelsey Hightower_
 - [Scaling at GitHub](https://www.youtube.com/watch?v=f7ecUqHxD7o) - by _Patrick Reynolds_
 - [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo) - by _Yao Yu_
 - [Scaling Up to Your First 10 Million Users](https://www.youtube.com/watch?v=vg5onp8TU6Q) - by _Joel Williams_
