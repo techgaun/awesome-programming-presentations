@@ -143,6 +143,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ### Microservices
 
+- [Globally scalable microservices with Container Engine & Cloud Load Balancing](https://www.youtube.com/watch?v=kmPBm-TQBSE) - by _Sandip Dinesh_
 - [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY) - by _R. Meshenberg_
 
 ### Misc
