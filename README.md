@@ -18,6 +18,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Python](#python)
   - [Ruby](#ruby)
   - [Scala](#scala)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Paradigms and Principles](paradigms-and-principles)
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
@@ -112,6 +113,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### Scala
 
 - [Striving to Make Things Simple and Fast](https://www.youtube.com/watch?v=K2NYwP90bNs) - by _Phil Bagwell_
+
+### Artificial Intelligence
+
+- [TensorFlow and Deep Learning without a PhD](https://www.youtube.com/watch?v=u4alGiomYP4) - by _Martin Gorner_
 
 ### Paradigms and Principles
 
