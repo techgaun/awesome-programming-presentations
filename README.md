@@ -117,6 +117,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ### Artificial Intelligence
 
 - [TensorFlow and Deep Learning without a PhD](https://www.youtube.com/watch?v=u4alGiomYP4) - by _Martin Gorner_
+- [TensorFlow and Deep Learning without a PhD, Part 2](https://www.youtube.com/watch?v=fTUwdXUFfI8) - by _Martin Gorner_
 
 ### Paradigms and Principles
 
