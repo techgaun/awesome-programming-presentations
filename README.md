@@ -171,6 +171,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### IDEs and Editors
 
 - [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM) - by _Max Cantor_
+- [Learning Vim in a Week](https://www.youtube.com/watch?v=_NUO4JEtkDw) - by _Mike Coutermarsh_
 - [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0) - by _Chris Toomey_
 - [More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) - by _Damian Conway_
 - [Precision Editing at the Speed of Thought](https://vimeo.com/53144573) - by _Drew Neil_
