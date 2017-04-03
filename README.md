@@ -130,7 +130,8 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ### Cloud Computing
 
 - [12-Factor Apps and the Hashistack](https://www.youtube.com/watch?v=Nosa5-xcATw) - by _Kelsey Hightower_
-- [A Day in the Life of a Netflix Engineer - AWS re:Invent 2015](https://www.youtube.com/watch?v=-mL3zT1iIKw)
+- [A Day in the Life of a Netflix Engineer - AWS re:Invent 2015](https://www.youtube.com/watch?v=-mL3zT1iIKw) - by _Dave Hahn_
+- [Build user trust: running containers securely with Google Container Engine](https://www.youtube.com/watch?v=Cd4JU7qzYbE) - by _Alex Mohr_ and _Jessie Frazelle_
 - [Cluster Management at Google with Borg](https://www.youtube.com/watch?v=0W49z8hVn0k) - by _John Wilkes_
 - [Container management and deployment: from development to production](https://www.youtube.com/watch?v=XL9CQobFB8I) - by _Kelsey Hightower_
 - [Scaling at GitHub](https://www.youtube.com/watch?v=f7ecUqHxD7o) - by _Patrick Reynolds_
