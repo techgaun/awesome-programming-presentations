@@ -77,6 +77,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 #### Go
 
+- [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) - by _Rob Pike_
 - [Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ) - by _Dave Cheney_
 - [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) - by _Rob Pike_
 - [How to write your own Go tool](https://www.youtube.com/watch?v=oxc8B2fjDvY) - by _Fatih Arslan_
