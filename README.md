@@ -77,6 +77,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 #### Go
 
+- [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) - by _Steve Francia_
 - [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) - by _Rob Pike_
 - [Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ) - by _Dave Cheney_
 - [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) - by _Rob Pike_
