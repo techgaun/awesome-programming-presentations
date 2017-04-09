@@ -102,6 +102,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 #### Python
 
+- [10 Tips for Pythonic Code](https://www.youtube.com/watch?v=_O23jIXsshs) - by _Michael Kennedy_
 - [Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) - by _Raymond Hettinger_
 - [Builtin Superheroes](https://www.youtube.com/watch?v=j6VSAsKAj98) - by _David Beazley_
 - [Crypto 101](https://www.youtube.com/watch?v=3rmCGsCYJF8) - by _Laurens Van Houtven_
