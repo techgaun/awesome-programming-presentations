@@ -35,6 +35,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [A Conversation with Linus Torvalds](https://www.youtube.com/watch?v=Efi9wa4Fwds)
 - [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by _Guy Steele_
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
+- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) - by _Julie Pagano_
 - [Linux Kernel Development](https://www.youtube.com/watch?v=vyenmLqJQjs) - by _Greg Kroah-Hartman_
 - [Overkill](https://www.youtube.com/watch?v=GWEEPt8VvmU) - by _Katrina Owen_
 - [System We Love](https://www.youtube.com/watch?v=TPe6UXMDMGM)
