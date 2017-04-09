@@ -78,6 +78,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### Go
 
 - [Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ) - by _Dave Cheney_
+- [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) - by _Rob Pike_
 - [How to write your own Go tool](https://www.youtube.com/watch?v=oxc8B2fjDvY) - by _Fatih Arslan_
 - [Inside the Map Implementation](https://www.youtube.com/watch?v=Tl7mi9QmLns) - by _Keith Randall_
 - [Program your next server in Go](https://www.youtube.com/watch?v=5bYO60-qYOI) - by _Sameer Ajmani_
