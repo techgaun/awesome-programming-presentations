@@ -81,6 +81,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) - by _Rob Pike_
 - [Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ) - by _Dave Cheney_
 - [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) - by _Rob Pike_
+- ["go test -race" Under the Hood](https://www.youtube.com/watch?v=5erqWdlhQLA) - by _Kavya Joshi_
 - [How to write your own Go tool](https://www.youtube.com/watch?v=oxc8B2fjDvY) - by _Fatih Arslan_
 - [Inside the Map Implementation](https://www.youtube.com/watch?v=Tl7mi9QmLns) - by _Keith Randall_
 - [Program your next server in Go](https://www.youtube.com/watch?v=5bYO60-qYOI) - by _Sameer Ajmani_
@@ -103,6 +104,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### Python
 
 - [10 Tips for Pythonic Code](https://www.youtube.com/watch?v=_O23jIXsshs) - by _Michael Kennedy_
+- [A tale of concurrency through creativity in Python: a deep dive into how gevent works](https://www.youtube.com/watch?v=GunMToxbE0E) - by _Kavya Joshi_
 - [Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) - by _Raymond Hettinger_
 - [Builtin Superheroes](https://www.youtube.com/watch?v=j6VSAsKAj98) - by _David Beazley_
 - [Crypto 101](https://www.youtube.com/watch?v=3rmCGsCYJF8) - by _Laurens Van Houtven_
