@@ -13,6 +13,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Bash](#bash)
   - [CSS](#css)
   - [Elixir](#elixir)
+  - [Erlang](#erlang)
   - [Go](#go)
   - [Javascript](#javascript)
   - [Python](#python)
@@ -75,6 +76,9 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) - by _Bram Verburg_ (Applies to Erlang as well in general)
 - [The Joy of Connecting Elixir to the Physical World](https://www.youtube.com/watch?v=SVy7gRU_-P8) - by _Frank Hunleth_
 
+#### Erlang
+
+- [Erlang Performance Lab](https://www.youtube.com/watch?v=ncedupb-Rqw) - by _Michal Slaski_
 #### Go
 
 - [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) - by _Steve Francia_
