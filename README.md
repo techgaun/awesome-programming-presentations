@@ -59,6 +59,8 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [3.14 Things I Didn't Know About CSS - CSSconf EU 2014](https://www.youtube.com/watch?v=WjP7TEKB7Uo)
 - [CSS for Software Engineers for CSS Developers](https://www.youtube.com/watch?v=wFn5nel3j6w) - by _Harry Roberts_
+- [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) - by _Addy Osmani_
+- [Your CSS is a Mess](https://www.youtube.com/watch?v=C4z_9F6nfS8) - by _Jonathan Snook_
 
 #### Elixir
 
