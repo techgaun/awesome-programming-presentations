@@ -99,6 +99,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 #### Javascript
 
+- [A Cartoon Intro to WebAssembly](https://www.youtube.com/watch?v=HktWin_LPf4) - by _Lin Clark_
 - [Benchmarking Javascript](https://www.youtube.com/watch?v=g0ek4vV7nEA) - by _Vyacheslav Egorov_
 - [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) - by _Lee Byron_
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) by _Anjana Vakil_
