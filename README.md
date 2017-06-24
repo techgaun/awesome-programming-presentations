@@ -25,6 +25,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Computer Security](#computer-security)
 - [Database Systems](#database-systems)
 - [Microservices](#microservices)
+- [Operating Systems](#operating-systems)
 - [Misc](#misc)
   - [Fun to Watch](#fun-to-watch)
   - [IDEs and Editors](#ides-and-editors)
@@ -169,6 +170,9 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Globally scalable microservices with Container Engine & Cloud Load Balancing](https://www.youtube.com/watch?v=kmPBm-TQBSE) - by _Sandip Dinesh_
 - [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY) - by _R. Meshenberg_
 
+### Operating Systems
+
+- [Early days of Unix and design of sh](https://www.youtube.com/watch?v=FI_bZhV7wpI) - by _Stephen R. Bourne_
 ### Misc
 
 #### Fun to Watch
