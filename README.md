@@ -20,7 +20,8 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Ruby](#ruby)
   - [Scala](#scala)
 - [Artificial Intelligence](#artificial-intelligence)
-- [Paradigms and Principles](paradigms-and-principles)
+- [Paradigms and Principles](#paradigms-and-principles)
+  - [Functional Programming](#functional-programming)
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
 - [Database Systems](#database-systems)
@@ -144,7 +145,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ### Paradigms and Principles
 
+#### Functional Programming
+
 - [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) - by _Evan Czaplicki_
+- [Railway Oriented Programming - error handling in functional languages](https://vimeo.com/97344498) - by _Scott Wlaschin_
 
 ### Cloud Computing
 
