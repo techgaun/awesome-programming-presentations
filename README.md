@@ -157,6 +157,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Achieving Rapid Response Times in Large Online Services](https://www.youtube.com/watch?v=1-3Ahy7Fxsc) - by _Jeff Dean_
 - [A Day in the Life of a Netflix Engineer - AWS re:Invent 2015](https://www.youtube.com/watch?v=-mL3zT1iIKw) - by _Dave Hahn_
 - [Build user trust: running containers securely with Google Container Engine](https://www.youtube.com/watch?v=Cd4JU7qzYbE) - by _Alex Mohr_ and _Jessie Frazelle_
+- [Building Software Systems At Google and Lessons Learned](https://www.youtube.com/watch?v=modXC5IWTJI) - by _Jeff Dean_
 - [Cluster Management at Google with Borg](https://www.youtube.com/watch?v=0W49z8hVn0k) - by _John Wilkes_
 - [Container management and deployment: from development to production](https://www.youtube.com/watch?v=XL9CQobFB8I) - by _Kelsey Hightower_
 - [Infrastructure as Code Might Literally Be Impossible](https://www.youtube.com/watch?v=SLh_6Ievi7A) - by _Joe Damato_
