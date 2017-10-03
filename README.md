@@ -36,6 +36,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ### General
 
 - [A Conversation with Linus Torvalds](https://www.youtube.com/watch?v=Efi9wa4Fwds)
+- [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s) - by _Neal Ford_
 - [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by _Guy Steele_
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) - by _Julie Pagano_
