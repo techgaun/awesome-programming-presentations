@@ -21,6 +21,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Scala](#scala)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Paradigms and Principles](#paradigms-and-principles)
+  - [CQRS and Event Sourcing](#cqrs-and-event-sourcing)
   - [Functional Programming](#functional-programming)
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
