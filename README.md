@@ -147,6 +147,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ### Paradigms and Principles
 
+#### CQRS and Event Sourcing
+
+- [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs) - by _Greg Young_
+
 #### Functional Programming
 
 - [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) - by _Evan Czaplicki_
