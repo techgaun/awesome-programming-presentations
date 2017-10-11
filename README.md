@@ -85,6 +85,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### Erlang
 
 - [Erlang Performance Lab](https://www.youtube.com/watch?v=ncedupb-Rqw) - by _Michal Slaski_
+
 #### Go
 
 - [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) - by _Steve Francia_
@@ -105,13 +106,14 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [A Cartoon Intro to WebAssembly](https://www.youtube.com/watch?v=HktWin_LPf4) - by _Lin Clark_
 - [Benchmarking Javascript](https://www.youtube.com/watch?v=g0ek4vV7nEA) - by _Vyacheslav Egorov_
+- [How to Build a Compiler](https://www.youtube.com/watch?v=Tar4WgAfMr4) - by _James Kyle_
 - [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) - by _Lee Byron_
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) by _Anjana Vakil_
-- [Performance and benchmarking](https://www.youtube.com/watch?v=65-RbBwZQdU) - By _Vyacheslav Egorov_
+- [Performance and benchmarking](https://www.youtube.com/watch?v=65-RbBwZQdU) - by _Vyacheslav Egorov_
 - [Really. Javascript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) - by _Douglas Crockford_
 - [RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg) - by _Jay Phelps_
 - [The myth of the "Real JavaScript Developer"](https://www.youtube.com/watch?v=Xt5qpbiqw2g) - by _Brenna O'Brien_
-- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ' by _Philip Roberts_
+- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - by _Philip Roberts_
 
 #### Python
 
@@ -188,6 +190,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ### Operating Systems
 
 - [Early days of Unix and design of sh](https://www.youtube.com/watch?v=FI_bZhV7wpI) - by _Stephen R. Bourne_
+
 ### Misc
 
 #### Fun to Watch
