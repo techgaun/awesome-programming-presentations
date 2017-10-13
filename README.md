@@ -73,6 +73,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Dialyzer: Optimistic Type Checking for Erlang and Elixir](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) - by _Jason Voegele_
 - [Discovering Processes](https://www.youtube.com/watch?v=y_b6RTes83c) - by _Saša Jurić_
 - [GenStage in the Kitchen](https://www.youtube.com/watch?v=M78r_PDlw2c) - by _Claudio Ortolina_
+- [High availability with Elixir and Erlang](https://www.youtube.com/watch?v=Ba3aCm3A0o8) - by _Saša Jurić_
 - [Metaprogramming Elixir](https://vimeo.com/131643017) - by _Chris McCord_
 - [OOP in Elixir - Lightning Talk](https://www.youtube.com/watch?v=5EtV2JUU0Z4) - by _Wojtek Mach_
 - [Phoenix - Productive. Reliable. Fast](https://www.youtube.com/watch?v=STO-uN0xHDQ) - by _Chris McCord_
@@ -80,7 +81,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Processing 2.7M Images with Elixir (vs Ruby)](https://www.youtube.com/watch?v=xoNRtWl4fZU) - by _David Padilla_
 - [QuickCheck for Elixir - Generate Tests Automatically](https://www.youtube.com/watch?v=nbpZRm9gl50) - by _Thomas Arts_
 - [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) - by _Bram Verburg_ (Applies to Erlang as well in general)
-- [Solid Ground](https://www.youtube.com/watch?v=5SbWapbXhKo) - by _Saša Juric_
+- [Solid Ground](https://www.youtube.com/watch?v=5SbWapbXhKo) - by _Saša Jurić_
 - [The Joy of Connecting Elixir to the Physical World](https://www.youtube.com/watch?v=SVy7gRU_-P8) - by _Frank Hunleth_
 
 #### Erlang
