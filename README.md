@@ -92,6 +92,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) - by _Steve Francia_
 - [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) - by _Rob Pike_
+- [Crypto For Go Developers](https://www.youtube.com/watch?v=2r_KMzXB74w) - by _George Tankersley_
 - [Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ) - by _Dave Cheney_
 - [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) - by _Rob Pike_
 - ["go test -race" Under the Hood](https://www.youtube.com/watch?v=5erqWdlhQLA) - by _Kavya Joshi_
