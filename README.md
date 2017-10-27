@@ -117,6 +117,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Really. Javascript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) - by _Douglas Crockford_
 - [RxJS + Redux + React = Amazing!](https://www.youtube.com/watch?v=AslncyG8whg) - by _Jay Phelps_
 - [The myth of the "Real JavaScript Developer"](https://www.youtube.com/watch?v=Xt5qpbiqw2g) - by _Brenna O'Brien_
+- [V8, modern JavaScript, and beyond](https://www.youtube.com/watch?v=N1swY14jiKc) - by _Seth Thompson_
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - by _Philip Roberts_
 
 #### Python
