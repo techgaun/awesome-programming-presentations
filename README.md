@@ -16,6 +16,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Erlang](#erlang)
   - [Go](#go)
   - [Javascript](#javascript)
+  - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Scala](#scala)
@@ -120,6 +121,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [The myth of the "Real JavaScript Developer"](https://www.youtube.com/watch?v=Xt5qpbiqw2g) - by _Brenna O'Brien_
 - [V8, modern JavaScript, and beyond](https://www.youtube.com/watch?v=N1swY14jiKc) - by _Seth Thompson_
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - by _Philip Roberts_
+
+#### PHP
+
+- [PHP in 2017](https://www.youtube.com/watch?v=fYTKm2oUzAg) - by _Rasmus Lerdorf_
 
 #### Python
 
