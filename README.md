@@ -4,9 +4,9 @@
 
 This awesome list documents list of video presentations and conference talks that all programmers would benefit by watching. This list began when I started making habit of watching presentations and talks on weekly basis.
 
-If you are here with bad mood or want to watch fun ones to hear, you should [start here](#fun-to-watch).
+If you are here with bad mood, you should [start here](#fun-to-watch).
 
-If you need some inspiration, [start with this](https://www.youtube.com/watch?v=oioj24KQRvM) or listen to [this song](https://soundcloud.com/smixx/smixx-developers-feat-steve) :D
+If you need some inspiration, [start with this](https://www.youtube.com/watch?v=oioj24KQRvM) or listen to [this song](https://soundcloud.com/smixx/smixx-developers-feat-steve) :laughing:
 
 - [General](#general)
 - [Programming Languages](#programming-languages)
@@ -15,7 +15,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Elixir](#elixir)
   - [Erlang](#erlang)
   - [Go](#go)
-  - [Javascript](#javascript)
+  - [JavaScript](#javascript)
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -41,6 +41,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s) - by _Neal Ford_
 - [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by _Guy Steele_
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
+- [I want you to contribute to open source](https://www.youtube.com/watch?v=hwdeUG_gySI) by _Max Stoiber_
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) - by _Julie Pagano_
 - [Linux Kernel Development](https://www.youtube.com/watch?v=vyenmLqJQjs) - by _Greg Kroah-Hartman_
 - [Overkill](https://www.youtube.com/watch?v=GWEEPt8VvmU) - by _Katrina Owen_
@@ -107,7 +108,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) - by _Rob Pike_
 - [The Scandalous Story of the Dreadful Code Written by the Best of Us](https://www.youtube.com/watch?v=-wYLmsizBc0) - by _Katrina Owen_
 
-#### Javascript
+#### JavaScript
 
 - [A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) - by _Lin Clark_
 - [A Cartoon Intro to WebAssembly](https://www.youtube.com/watch?v=HktWin_LPf4) - by _Lin Clark_
@@ -235,6 +236,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [vim + tmux](https://www.youtube.com/watch?v=5r6yzFEXajQ) - by _Nick Nisi_
 
 #### Version Control
+
 - [Dissecting Git's Guts](https://www.youtube.com/watch?v=Y2Msq90ZknI) - by _Emily Xie_
 - [Git](https://www.youtube.com/watch?v=idLyobOhtO4) - by _Linus Torvalds_
 
