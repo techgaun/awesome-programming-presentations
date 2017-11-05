@@ -157,6 +157,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ### Artificial Intelligence
 
 - [Large-Scale Deep Learning with TensorFlow](https://www.youtube.com/watch?v=vzoe2G5g-w4) - by _Jeff Dean_
+- [Self-Driving Lessons from Comma AI](https://www.youtube.com/watch?v=IxuU5L2MEII) - by _George Hotz_
 - [TensorFlow and Deep Learning without a PhD](https://www.youtube.com/watch?v=u4alGiomYP4) - by _Martin Gorner_
 - [TensorFlow and Deep Learning without a PhD, Part 2](https://www.youtube.com/watch?v=fTUwdXUFfI8) - by _Martin Gorner_
 
