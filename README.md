@@ -68,6 +68,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) - by _Addy Osmani_
 - [Refactoring CSS Without Losing Your Mind](https://www.youtube.com/watch?v=fvTryZjGyg8) - by _Harry Roberts_
 - [Your CSS is a Mess](https://www.youtube.com/watch?v=C4z_9F6nfS8) - by _Jonathan Snook_
+- [Your Very Own Component Library](https://www.youtube.com/watch?v=zSYo7m5kGHQ) - by _Alex Sexton_
 
 #### Elixir
 
