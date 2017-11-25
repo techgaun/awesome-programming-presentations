@@ -171,6 +171,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 #### Functional Programming
 
 - [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) - by _Evan Czaplicki_
+- [Functional Programming Patterns for Mere Mortals](https://www.youtube.com/watch?v=v9QGWbGppis) - by _Daniel Chambers_
 - [Railway Oriented Programming - error handling in functional languages](https://vimeo.com/97344498) - by _Scott Wlaschin_
 
 ### Cloud Computing
