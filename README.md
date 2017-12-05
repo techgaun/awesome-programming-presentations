@@ -76,6 +76,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Debugging Techniques in Elixir](https://www.youtube.com/watch?v=pj6zAgvVt5w) - by _Erich Kist_
 - [Dialyzer: Optimistic Type Checking for Erlang and Elixir](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) - by _Jason Voegele_
 - [Discovering Processes](https://www.youtube.com/watch?v=y_b6RTes83c) - by _Saša Jurić_
+- [Elixir Power Tracing](https://www.youtube.com/watch?v=NBmNDI9OFJk) - by _Gabi Zuniga_
 - [GenStage in the Kitchen](https://www.youtube.com/watch?v=M78r_PDlw2c) - by _Claudio Ortolina_
 - [High availability with Elixir and Erlang](https://www.youtube.com/watch?v=Ba3aCm3A0o8) - by _Saša Jurić_
 - [Metaprogramming Elixir](https://vimeo.com/131643017) - by _Chris McCord_
@@ -83,6 +84,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Phoenix - Productive. Reliable. Fast](https://www.youtube.com/watch?v=STO-uN0xHDQ) - by _Chris McCord_
 - [Phoenix 1.3](https://www.youtube.com/watch?v=tMO28ar0lW8) - by _Chris McCord_
 - [Processing 2.7M Images with Elixir (vs Ruby)](https://www.youtube.com/watch?v=xoNRtWl4fZU) - by _David Padilla_
+- [Profiling and Tracing for all with Xprof](https://www.youtube.com/watch?v=AAXtjPiXbWE) - by _Péter Gömöri_
 - [QuickCheck for Elixir - Generate Tests Automatically](https://www.youtube.com/watch?v=nbpZRm9gl50) - by _Thomas Arts_
 - [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) - by _Bram Verburg_ (Applies to Erlang as well in general)
 - [Solid Ground](https://www.youtube.com/watch?v=5SbWapbXhKo) - by _Saša Jurić_
