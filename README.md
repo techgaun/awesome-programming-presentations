@@ -27,6 +27,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
 - [Database Systems](#database-systems)
+- [Distributed Systems](#distributed-systems)
 - [Microservices](#microservices)
 - [Operating Systems](#operating-systems)
 - [Misc](#misc)
@@ -196,6 +197,13 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ### Computer Security
 
 - [Pwned By the owner What happens when you steal a hackers computer - Defcon 18](https://www.youtube.com/watch?v=U4oB28ksiIo)
+
+### Distributed Systems
+
+- [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8) - by _Caitie McCaffrey_
+- [Conflict Resolution for Eventual Consistency](https://www.youtube.com/watch?v=yCcWpzY8dIA) - by _Martin Kleppmann_
+- [Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0) - by _Zach Tellman_
+- [Practical Load Balancing with Consistent Hashing](https://www.youtube.com/watch?v=jk6oiBJxcaA) - by _Andrew Rodland_
 
 ### Database Systems
 
