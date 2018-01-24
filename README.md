@@ -119,6 +119,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) - by _Lin Clark_
 - [A Cartoon Intro to WebAssembly](https://www.youtube.com/watch?v=HktWin_LPf4) - by _Lin Clark_
 - [Benchmarking Javascript](https://www.youtube.com/watch?v=g0ek4vV7nEA) - by _Vyacheslav Egorov_
+- [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) - by _Brian Lonsdorf_
 - [How to Build a Compiler](https://www.youtube.com/watch?v=Tar4WgAfMr4) - by _James Kyle_
 - [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) - by _Lee Byron_
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) by _Anjana Vakil_
