@@ -155,6 +155,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 #### Ruby
 
+- [Let's build a blockchain! — A mini-cryptocurrency in Ruby](https://youtu.be/3aJI1ABdjQk?t=1043) - by _Haseeb Qureshi_
 - [Nothing is Something - RailsConf 2015](https://www.youtube.com/watch?v=OMPfEXIlTVE) by _Sandi Metz_
 
 #### Scala
