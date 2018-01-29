@@ -26,6 +26,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Functional Programming](#functional-programming)
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
+- [Cryptocurrency](#cryptocurrency)
 - [Database Systems](#database-systems)
 - [Distributed Systems](#distributed-systems)
 - [Microservices](#microservices)
@@ -199,6 +200,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ### Computer Security
 
 - [Pwned By the owner What happens when you steal a hackers computer - Defcon 18](https://www.youtube.com/watch?v=U4oB28ksiIo)
+
+### Cryptocurrency
+
+- [Ethereum in 25 Minutes, Version MMXVII](https://youtu.be/mCzyDLanA7s) - by _Vitalik Buterina_
 
 ### Distributed Systems
 
