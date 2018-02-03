@@ -81,7 +81,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Elixir Power Tracing](https://www.youtube.com/watch?v=NBmNDI9OFJk) - by _Gabi Zuniga_
 - [GenStage in the Kitchen](https://www.youtube.com/watch?v=M78r_PDlw2c) - by _Claudio Ortolina_
 - [High availability with Elixir and Erlang](https://www.youtube.com/watch?v=Ba3aCm3A0o8) - by _Saša Jurić_
-- [Metaprogramming Elixir](https://vimeo.com/131643017) - by _Chris McCord_
+- [Metaprogramming Elixir](https://www.youtube.com/watch?v=2Bjzml_Hpvk) - by _Chris McCord_
 - [OOP in Elixir - Lightning Talk](https://www.youtube.com/watch?v=5EtV2JUU0Z4) - by _Wojtek Mach_
 - [Phoenix - Productive. Reliable. Fast](https://www.youtube.com/watch?v=STO-uN0xHDQ) - by _Chris McCord_
 - [Phoenix 1.3](https://www.youtube.com/watch?v=tMO28ar0lW8) - by _Chris McCord_
@@ -180,7 +180,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) - by _Evan Czaplicki_
 - [Functional Programming Patterns for Mere Mortals](https://www.youtube.com/watch?v=v9QGWbGppis) - by _Daniel Chambers_
-- [Railway Oriented Programming - error handling in functional languages](https://vimeo.com/97344498) - by _Scott Wlaschin_
+- [Railway Oriented Programming - error handling in functional languages](https://www.youtube.com/watch?v=E8I19uA-wGY) - by _Scott Wlaschin_
 
 ### Cloud Computing
 
@@ -234,9 +234,9 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Developer Stand up Comedy](http://media.ch9.ms/ch9/1ea0/ef05d6a9-86a1-43bd-af65-9ed200a41ea0/devdays054_high_ch9.mp4) - by _Scott Hanselman_
 - [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) - by _Ashley Williams_
 - [It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997) - by _James Mickens_
-- [Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control](https://vimeo.com/180568023) - by _James Mickens_
+- [Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control](https://www.youtube.com/watch?v=7Nj9ZjwOdFQ) - by _James Mickens_
 - [Life is Terrible: Lets Talk About The Web](https://vimeo.com/111122950) - by _James Mickens_
-- [Not Even Close: The State of Computer Security ](https://vimeo.com/135347162) - by _James Mickens_
+- [Not Even Close: The State of Computer Security ](https://www.youtube.com/watch?v=tF24WHumvIc) - by _James Mickens_
 - [Perfectly Executing The Wrong Plan](https://www.youtube.com/watch?v=9TJTbRw4ri8) - by _Tomer Sharon_
 - [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
 - [Single Point of Failure: The (Fictional) Day Google Forgot To Check Passwords](https://www.youtube.com/watch?v=y4GB_NDU43Q) - by _Tom Scott_
@@ -256,6 +256,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) - by _Damian Conway_
 - [Precision Editing at the Speed of Thought](https://vimeo.com/53144573) - by _Drew Neil_
 - [vim + tmux](https://www.youtube.com/watch?v=5r6yzFEXajQ) - by _Nick Nisi_
+- [Xi: an editor for the next 20 years](https://www.youtube.com/watch?v=4FbQre9VQLI) - by _Raph Levien_
 
 #### Version Control
 
