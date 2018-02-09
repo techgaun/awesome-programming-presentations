@@ -81,6 +81,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Don't Write Macros But Do Learn How They Work](https://www.youtube.com/watch?v=Bo48sQDb-hk) - by _Jesse Anderson_
 - [Elixir by the Bellyful](https://www.youtube.com/watch?v=iswld-Rpi_g) - by _Bryan Hunter_
 - [Elixir in Elixir](https://www.youtube.com/watch?v=p8MGNw045AE) - by _Jay Hayes_
+- [Elixir Native UI](https://www.youtube.com/watch?v=77FW-jrCyCs) - by _Boyd Multerer_
 - [Elixir Power Tracing](https://www.youtube.com/watch?v=NBmNDI9OFJk) - by _Gabi Zuniga_
 - [GenStage in the Kitchen](https://www.youtube.com/watch?v=M78r_PDlw2c) - by _Claudio Ortolina_
 - [High availability with Elixir and Erlang](https://www.youtube.com/watch?v=Ba3aCm3A0o8) - by _Saša Jurić_
