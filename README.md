@@ -79,6 +79,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Dialyzer: Optimistic Type Checking for Erlang and Elixir](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) - by _Jason Voegele_
 - [Discovering Processes](https://www.youtube.com/watch?v=y_b6RTes83c) - by _Saša Jurić_
 - [Don't Write Macros But Do Learn How They Work](https://www.youtube.com/watch?v=Bo48sQDb-hk) - by _Jesse Anderson_
+- [Elixir by the Bellyful](https://www.youtube.com/watch?v=iswld-Rpi_g) - by _Bryan Hunter_
 - [Elixir in Elixir](https://www.youtube.com/watch?v=p8MGNw045AE) - by _Jay Hayes_
 - [Elixir Power Tracing](https://www.youtube.com/watch?v=NBmNDI9OFJk) - by _Gabi Zuniga_
 - [GenStage in the Kitchen](https://www.youtube.com/watch?v=M78r_PDlw2c) - by _Claudio Ortolina_
