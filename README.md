@@ -1,12 +1,15 @@
-# awesome-programming-presentations [![Build Status](https://travis-ci.org/techgaun/awesome-programming-presentations.svg?branch=master)](https://travis-ci.org/techgaun/awesome-programming-presentations)
+# Awesome Programming Presentations
 
-> Presentations that programmers should watch
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Build Status](https://travis-ci.org/techgaun/awesome-programming-presentations.svg?branch=master)](https://travis-ci.org/techgaun/awesome-programming-presentations)
 
-This awesome list documents list of video presentations and conference talks that all programmers would benefit by watching. This list began when I started making habit of watching presentations and talks on weekly basis.
+> List of programming presentations everyone should watch.
 
-If you are here with bad mood, you should [start here](#fun-to-watch).
+Don't know where to start? ➔ [Start here](#fun-to-watch)
 
-If you need some inspiration, [start with this](https://www.youtube.com/watch?v=oioj24KQRvM) or listen to [this song](https://soundcloud.com/smixx/smixx-developers-feat-steve) :laughing:
+If you need some inspiration, [start with this](https://www.youtube.com/watch?v=oioj24KQRvM) or listen to [this song](https://soundcloud.com/smixx/smixx-developers-feat-steve).
+
+## Table of Contents
 
 - [General](#general)
 - [Programming Languages](#programming-languages)
@@ -31,13 +34,14 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Distributed Systems](#distributed-systems)
 - [Microservices](#microservices)
 - [Operating Systems](#operating-systems)
-- [Misc](#misc)
+- [Miscellaneous](#miscellaneous)
   - [Fun to Watch](#fun-to-watch)
   - [IDEs and Editors](#ides-and-editors)
   - [Version Control](#version-control)
-- [Contributing](#contributing)
+- [Contribute](#contribute)
+- [License](#license)
 
-### General
+## General
 
 - [A Conversation with Linus Torvalds](https://www.youtube.com/watch?v=Efi9wa4Fwds)
 - [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s) - by _Neal Ford_
@@ -56,14 +60,14 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) - by _Leslie Lamport_
 - [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) - by _Julia Evans_
 
-### Programming Languages
+## Programming Languages
 
-#### Bash
+### Bash
 
 - [Introduction to Advanced Bash Usage](https://www.youtube.com/watch?v=uqHjc7hlqd0) - by _James Pannacciulli_
 - [The Functional Tao of Bash](https://www.youtube.com/watch?v=yD2ekOEP9sU) - by _Garrett Smith_
 
-#### CSS
+### CSS
 
 - [3.14 Things I Didn't Know About CSS - CSSconf EU 2014](https://www.youtube.com/watch?v=WjP7TEKB7Uo)
 - [CSS for Software Engineers for CSS Developers](https://www.youtube.com/watch?v=wFn5nel3j6w) - by _Harry Roberts_
@@ -72,7 +76,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Your CSS is a Mess](https://www.youtube.com/watch?v=C4z_9F6nfS8) - by _Jonathan Snook_
 - [Your Very Own Component Library](https://www.youtube.com/watch?v=zSYo7m5kGHQ) - by _Alex Sexton_
 
-#### Elixir
+### Elixir
 
 - [Building Umbrella Project](https://www.youtube.com/watch?v=6NTmUQClHrU) - by _Wojtek Mach_
 - [Debugging Techniques in Elixir](https://www.youtube.com/watch?v=pj6zAgvVt5w) - by _Erich Kist_
@@ -101,13 +105,13 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Thinking In Ecto](https://www.youtube.com/watch?v=YQxopjai0CU) - by _Darin Wilson_
 - [Writing an Editor in Elixir](https://www.youtube.com/watch?v=6lIVWVmuPao) - by _Ian Duggan_
 
-#### Erlang
+### Erlang
 
 - [26 years with Erlang or How I got my grey hairs](https://www.youtube.com/watch?v=HCwRGHj5jOE) - by _Joe Armstrong_
 - [Erlang: Evolution](https://www.youtube.com/watch?v=od6CfA8xEcM) - by _Robert Virding_
 - [Erlang Performance Lab](https://www.youtube.com/watch?v=ncedupb-Rqw) - by _Michal Slaski_
 
-#### Go
+### Go
 
 - [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) - by _Steve Francia_
 - [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) - by _Rob Pike_
@@ -124,7 +128,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) - by _Rob Pike_
 - [The Scandalous Story of the Dreadful Code Written by the Best of Us](https://www.youtube.com/watch?v=-wYLmsizBc0) - by _Katrina Owen_
 
-#### JavaScript
+### JavaScript
 
 - [A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) - by _Lin Clark_
 - [A Cartoon Intro to WebAssembly](https://www.youtube.com/watch?v=HktWin_LPf4) - by _Lin Clark_
@@ -141,11 +145,11 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [V8, modern JavaScript, and beyond](https://www.youtube.com/watch?v=N1swY14jiKc) - by _Seth Thompson_
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - by _Philip Roberts_
 
-#### PHP
+### PHP
 
 - [PHP in 2017](https://www.youtube.com/watch?v=fYTKm2oUzAg) - by _Rasmus Lerdorf_
 
-#### Python
+### Python
 
 - [10 Tips for Pythonic Code](https://www.youtube.com/watch?v=_O23jIXsshs) - by _Michael Kennedy_
 - [A tale of concurrency through creativity in Python: a deep dive into how gevent works](https://www.youtube.com/watch?v=GunMToxbE0E) - by _Kavya Joshi_
@@ -164,12 +168,12 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Type Hints](https://www.youtube.com/watch?v=2wDvzy6Hgxg) - by _Guido van Rossum_
 - [Understanding the Python GIL](https://www.youtube.com/watch?v=Obt-vMVdM8s) - by _David Beazley_
 
-#### Ruby
+### Ruby
 
 - [Let's build a blockchain! — A mini-cryptocurrency in Ruby](https://youtu.be/3aJI1ABdjQk?t=1043) - by _Haseeb Qureshi_
 - [Nothing is Something - RailsConf 2015](https://www.youtube.com/watch?v=OMPfEXIlTVE) by _Sandi Metz_
 
-#### Scala
+### Scala
 
 - [Striving to Make Things Simple and Fast](https://www.youtube.com/watch?v=K2NYwP90bNs) - by _Phil Bagwell_
 
@@ -180,13 +184,13 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [TensorFlow and Deep Learning without a PhD](https://www.youtube.com/watch?v=u4alGiomYP4) - by _Martin Gorner_
 - [TensorFlow and Deep Learning without a PhD, Part 2](https://www.youtube.com/watch?v=fTUwdXUFfI8) - by _Martin Gorner_
 
-### Paradigms and Principles
+## Paradigms and Principles
 
-#### CQRS and Event Sourcing
+### CQRS and Event Sourcing
 
 - [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs) - by _Greg Young_
 
-#### Functional Programming
+### Functional Programming
 
 - [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) - by _Evan Czaplicki_
 - [Functional Programming Patterns for Mere Mortals](https://www.youtube.com/watch?v=v9QGWbGppis) - by _Daniel Chambers_
@@ -224,7 +228,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ### Database Systems
 
-- [PostgreSQL + ZFS: Best Practices and Standard Procedures](https://www.youtube.com/watch?v=dwMQXLOXUco&t=5564) - by _Sean Chittenden_ (Other good stuff as well on the channel)
+- [PostgreSQL + ZFS: Best Practices and Standard Procedures](https://www.youtube.com/watch?v=dwMQXLOXUco) - by _Sean Chittenden_
 
 ### Microservices
 
@@ -235,9 +239,9 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [Early days of Unix and design of sh](https://www.youtube.com/watch?v=FI_bZhV7wpI) - by _Stephen R. Bourne_
 
-### Misc
+## Miscellaneous
 
-#### Fun to Watch
+### Fun to Watch
 
 - [Best Practices for Software Development](https://www.youtube.com/watch?v=1cXquTPBpWo) - by _Chet Haase_
 - [Computers are a sadness, I am the cure](https://vimeo.com/95066828) by _James Mickens_
@@ -246,7 +250,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997) - by _James Mickens_
 - [Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors That Are Beyond My Control](https://www.youtube.com/watch?v=7Nj9ZjwOdFQ) - by _James Mickens_
 - [Life is Terrible: Lets Talk About The Web](https://vimeo.com/111122950) - by _James Mickens_
-- [Not Even Close: The State of Computer Security ](https://www.youtube.com/watch?v=tF24WHumvIc) - by _James Mickens_
+- [Not Even Close: The State of Computer Security](https://www.youtube.com/watch?v=tF24WHumvIc) - by _James Mickens_
 - [Perfectly Executing The Wrong Plan](https://www.youtube.com/watch?v=9TJTbRw4ri8) - by _Tomer Sharon_
 - [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
 - [Single Point of Failure: The (Fictional) Day Google Forgot To Check Passwords](https://www.youtube.com/watch?v=y4GB_NDU43Q) - by _Tom Scott_
@@ -257,7 +261,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os) - by _Jacob Thornton_
 - [WTFJS](https://www.youtube.com/watch?v=et8xNAc2ic8) - by _Brian Leroux_
 
-#### IDEs and Editors
+### IDEs and Editors
 
 - [7 Habits For Effective Text Editing](https://www.youtube.com/watch?v=p6K4iIMlouI) - by _Bram Moolenaar_
 - [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM) - by _Max Cantor_
@@ -268,11 +272,15 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [vim + tmux](https://www.youtube.com/watch?v=5r6yzFEXajQ) - by _Nick Nisi_
 - [Xi: an editor for the next 20 years](https://www.youtube.com/watch?v=4FbQre9VQLI) - by _Raph Levien_
 
-#### Version Control
+### Version Control
 
 - [Dissecting Git's Guts](https://www.youtube.com/watch?v=Y2Msq90ZknI) - by _Emily Xie_
 - [Git](https://www.youtube.com/watch?v=idLyobOhtO4) - by _Linus Torvalds_
 
-### Contributing
+## Contribute
 
-This list is incomplete without community support so please help make this list better.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+[Apache License 2.0](LICENSE)
