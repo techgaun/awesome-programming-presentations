@@ -198,7 +198,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Functional Programming Patterns for Mere Mortals](https://www.youtube.com/watch?v=v9QGWbGppis) - by _Daniel Chambers_
 - [Railway Oriented Programming - error handling in functional languages](https://www.youtube.com/watch?v=E8I19uA-wGY) - by _Scott Wlaschin_
 
-### Cloud Computing
+## Cloud Computing
 
 - [12-Factor Apps and the Hashistack](https://www.youtube.com/watch?v=Nosa5-xcATw) - by _Kelsey Hightower_
 - [Achieving Rapid Response Times in Large Online Services](https://www.youtube.com/watch?v=1-3Ahy7Fxsc) - by _Jeff Dean_
@@ -213,33 +213,35 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo) - by _Yao Yu_
 - [Scaling Up to Your First 10 Million Users](https://www.youtube.com/watch?v=vg5onp8TU6Q) - by _Joel Williams_
 
-### Computer Security
+## Computer Security
 
 - [Pwned By the owner What happens when you steal a hackers computer - Defcon 18](https://www.youtube.com/watch?v=U4oB28ksiIo)
 
-### Cryptocurrency
+## Cryptocurrency
 
 - [Ethereum in 25 Minutes, Version MMXVII](https://youtu.be/mCzyDLanA7s) - by _Vitalik Buterina_
 
-### Distributed Systems
+## Distributed Systems
 
 - [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8) - by _Caitie McCaffrey_
 - [Conflict Resolution for Eventual Consistency](https://www.youtube.com/watch?v=yCcWpzY8dIA) - by _Martin Kleppmann_
 - [Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0) - by _Zach Tellman_
 - [Practical Load Balancing with Consistent Hashing](https://www.youtube.com/watch?v=jk6oiBJxcaA) - by _Andrew Rodland_
 
-### Database Systems
+## Database Systems
 
 - [PostgreSQL + ZFS: Best Practices and Standard Procedures](https://www.youtube.com/watch?v=dwMQXLOXUco) - by _Sean Chittenden_
 
-### Microservices
+## Microservices
 
 - [Globally scalable microservices with Container Engine & Cloud Load Balancing](https://www.youtube.com/watch?v=kmPBm-TQBSE) - by _Sandip Dinesh_
 - [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY) - by _R. Meshenberg_
 
-### Operating Systems
+## Operating Systems
 
+### Unix
 - [Early days of Unix and design of sh](https://www.youtube.com/watch?v=FI_bZhV7wpI) - by _Stephen R. Bourne_
+- [Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD Important Milestones and Lesson](https://www.youtube.com/watch?v=FbDebSinSQo) - by _Diomidis Spinellis_
 
 ## Miscellaneous
 
