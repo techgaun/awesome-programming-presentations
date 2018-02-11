@@ -2,6 +2,8 @@
 
 > List of programming presentations everyone should watch.
 
+<br>
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Build Status](https://travis-ci.org/techgaun/awesome-programming-presentations.svg?branch=master)](https://travis-ci.org/techgaun/awesome-programming-presentations)
 
