@@ -7,8 +7,8 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 Please make sure your pull request adheres to the following guidelines:
 
 * Search previous entries before making a new one, as yours may be duplicate.
-* Make sure the talk is useful, clear and precise. That implies it has enough content and has been explained relatively well.
-* Use the following format: `[Name of the video](link) - by _Author_`
+* Make sure the talk is useful, clear and precise. That implies it has good content and has been explained well.
+* Use the following format: `[Title of the video](link) - by _Author_`
 * Make sure the link works.
 * Link additions should be added in alphabetical order to the relevant category.
 * New categories or improvements to the existing categorization are welcome.
