@@ -132,6 +132,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) - by _Brian Lonsdorf_
 - [How to Build a Compiler](https://www.youtube.com/watch?v=Tar4WgAfMr4) - by _James Kyle_
 - [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) - by _Lee Byron_
+- [In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) - by _Jake Archibald_
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) by _Anjana Vakil_
 - [Performance and benchmarking](https://www.youtube.com/watch?v=65-RbBwZQdU) - by _Vyacheslav Egorov_
 - [Really. Javascript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) - by _Douglas Crockford_
