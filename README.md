@@ -80,6 +80,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ### Elixir
 
+- [A Practical Guide to Elixir Protocols](https://www.youtube.com/watch?v=sJvfCE6PFxY) - by _Kevin Rockwood_
 - [Building Umbrella Project](https://www.youtube.com/watch?v=6NTmUQClHrU) - by _Wojtek Mach_
 - [Debugging Techniques in Elixir](https://www.youtube.com/watch?v=pj6zAgvVt5w) - by _Erich Kist_
 - [Dialyzer: Optimistic Type Checking for Erlang and Elixir](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) - by _Jason Voegele_
