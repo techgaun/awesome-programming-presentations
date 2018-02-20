@@ -261,6 +261,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
 - [Single Point of Failure: The (Fictional) Day Google Forgot To Check Passwords](https://www.youtube.com/watch?v=y4GB_NDU43Q) - by _Tom Scott_
 - [The Birth & Death of Javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - by _Gary Bernhardt_
+- [The Social Coding Contract](https://www.youtube.com/watch?v=e_-qV8waPVM) - by _Justin Searls_
 - [The Worst Programming Language](https://www.infoq.com/presentations/worst-programming-language) by _Mark Rendle_
 - [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) - by _Scott Hanselman_
 - [WAT](https://www.destroyallsoftware.com/talks/wat) - by _Gary Bernhardt_
