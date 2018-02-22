@@ -55,9 +55,9 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Overkill](https://www.youtube.com/watch?v=GWEEPt8VvmU) - by _Katrina Owen_
 - [System We Love](https://www.youtube.com/watch?v=TPe6UXMDMGM)
 - [Systems programming as a swiss army knife](https://www.youtube.com/watch?v=HfD9IMZ9rKY) - by _Julia Evans_
-- [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) - by _Joe Armstrong_
 - [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) - by _Bob Martin_
 - [The Future of Programming](https://vimeo.com/71278954) - by _Bret Victor_
+- [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) - by _Joe Armstrong_
 - [The Motivation for a Monolithic Codebase](https://www.youtube.com/watch?v=W71BTkUbdqE) - by _Rachel Potvin_
 - [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - by _Brian Fitzpatrick & Ben Collins-Sussman_
 - [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) - by _Leslie Lamport_
