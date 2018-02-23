@@ -106,6 +106,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) - by _Bram Verburg_ (Applies to Erlang as well in general)
 - [Solid Ground](https://www.youtube.com/watch?v=5SbWapbXhKo) - by _Saša Jurić_
 - [Taking Elixir to the Metal with Rust](https://www.youtube.com/watch?v=lSLTwWqTbKQ) - by _Sonny Scroggin_
+- [The Feature That No One Knew About in Elixir 1.5](https://www.youtube.com/watch?v=p4uE-jTB_Uk) - by _José Valim_
 - [The Joy of Connecting Elixir to the Physical World](https://www.youtube.com/watch?v=SVy7gRU_-P8) - by _Frank Hunleth_
 - [Thinking In Ecto](https://www.youtube.com/watch?v=YQxopjai0CU) - by _Darin Wilson_
 - [Writing an Editor in Elixir](https://www.youtube.com/watch?v=6lIVWVmuPao) - by _Ian Duggan_
