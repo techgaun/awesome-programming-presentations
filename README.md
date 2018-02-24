@@ -116,6 +116,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [26 years with Erlang or How I got my grey hairs](https://www.youtube.com/watch?v=HCwRGHj5jOE) - by _Joe Armstrong_
 - [Erlang: Evolution](https://www.youtube.com/watch?v=od6CfA8xEcM) - by _Robert Virding_
 - [Erlang Performance Lab](https://www.youtube.com/watch?v=ncedupb-Rqw) - by _Michal Slaski_
+- [Scaling Distributed Erlang](https://www.youtube.com/watch?v=usEs3GPnZDg) - by _Zandra Norman_
 
 ### Go
 
