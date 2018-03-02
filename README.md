@@ -158,7 +158,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ### Python
 
+- [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro&t=1927s) - by _James Powell_
 - [10 Tips for Pythonic Code](https://www.youtube.com/watch?v=_O23jIXsshs) - by _Michael Kennedy_
+- [7 Simple Tricks to Write Better Python Code](https://www.youtube.com/watch?v=VBokjWj_cEA&t=4s) - by _Sebastiaan Mathôt_
+- [7 More Tricks to Write Better Python Code](https://www.youtube.com/watch?v=SNTZpy0oDB8) - by _Sebastiaan Mathôt_
 - [A tale of concurrency through creativity in Python: a deep dive into how gevent works](https://www.youtube.com/watch?v=GunMToxbE0E) - by _Kavya Joshi_
 - [Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) - by _Raymond Hettinger_
 - [Builtin Superheroes](https://www.youtube.com/watch?v=j6VSAsKAj98) - by _David Beazley_
