@@ -103,6 +103,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Processing 2.7M Images with Elixir (vs Ruby)](https://www.youtube.com/watch?v=xoNRtWl4fZU) - by _David Padilla_
 - [Profiling and Tracing for all with Xprof](https://www.youtube.com/watch?v=AAXtjPiXbWE) - by _Péter Gömöri_
 - [QuickCheck for Elixir - Generate Tests Automatically](https://www.youtube.com/watch?v=nbpZRm9gl50) - by _Thomas Arts_
+- [Releases and Elixir: Envisioning a more perfect union](https://www.youtube.com/watch?v=OS94i3cF6mY) - by _Paul Schoenfelder_
 - [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) - by _Bram Verburg_ (Applies to Erlang as well in general)
 - [Solid Ground](https://www.youtube.com/watch?v=5SbWapbXhKo) - by _Saša Jurić_
 - [Taking Elixir to the Metal with Rust](https://www.youtube.com/watch?v=lSLTwWqTbKQ) - by _Sonny Scroggin_
