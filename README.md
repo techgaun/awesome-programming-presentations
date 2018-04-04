@@ -99,6 +99,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Phoenix - Productive. Reliable. Fast](https://www.youtube.com/watch?v=STO-uN0xHDQ) - by _Chris McCord_
 - [Phoenix 1.3](https://www.youtube.com/watch?v=tMO28ar0lW8) - by _Chris McCord_
 - [Phoenix after 100000 lines](https://www.youtube.com/watch?v=blGJ_p4plbc) - by _Renan Ranelli_
+- [Phoenix Is Not Your Application](https://www.youtube.com/watch?v=lDKCSheBc-8) - by _Lance Halvorsen_
 - [Plugging the Security Holes in Your Phoenix Application](https://www.youtube.com/watch?v=w3lKmFsmlvQ) - by _Griffin Byatt_
 - [Processing 2.7M Images with Elixir (vs Ruby)](https://www.youtube.com/watch?v=xoNRtWl4fZU) - by _David Padilla_
 - [Profiling and Tracing for all with Xprof](https://www.youtube.com/watch?v=AAXtjPiXbWE) - by _Péter Gömöri_
