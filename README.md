@@ -233,6 +233,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ## Distributed Systems
 
 - [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8) - by _Caitie McCaffrey_
+- [A Tour Through the Distributed System Zoo](https://www.youtube.com/watch?v=L7OTjuCIZc0) - by _Mariano Guerra_
 - [Conflict Resolution for Eventual Consistency](https://www.youtube.com/watch?v=yCcWpzY8dIA) - by _Martin Kleppmann_
 - [Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0) - by _Zach Tellman_
 - [Practical Load Balancing with Consistent Hashing](https://www.youtube.com/watch?v=jk6oiBJxcaA) - by _Andrew Rodland_
