@@ -229,7 +229,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ## Cryptocurrency
 
-- [Ethereum in 25 Minutes, Version MMXVII](https://youtu.be/mCzyDLanA7s) - by _Vitalik Buterina_
+- [Ethereum in 25 Minutes, Version MMXVII](https://youtu.be/mCzyDLanA7s) - by _Vitalik Buterin_
 
 ## Distributed Systems
 
