@@ -83,6 +83,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [A GraphQL-on-Elixir Primer](https://www.youtube.com/watch?v=enbksvAko98) - by _Bruce Williams_
 - [A Practical Guide to Elixir Protocols](https://www.youtube.com/watch?v=sJvfCE6PFxY) - by _Kevin Rockwood_
+- [Building beautiful systems with Phoenix contexts](https://www.youtube.com/watch?v=l3VgbSgo71E) - by _Andrew Hao_
 - [Building Umbrella Project](https://www.youtube.com/watch?v=6NTmUQClHrU) - by _Wojtek Mach_
 - [Consistent, Distributed Elixir](https://www.youtube.com/watch?v=CmMMpaUD3g8) - by _Chris Keathley_
 - [Debugging Techniques in Elixir](https://www.youtube.com/watch?v=pj6zAgvVt5w) - by _Erich Kist_
