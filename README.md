@@ -244,6 +244,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8) - by _Caitie McCaffrey_
 - [A Tour Through the Distributed System Zoo](https://www.youtube.com/watch?v=L7OTjuCIZc0) - by _Mariano Guerra_
 - [Conflict Resolution for Eventual Consistency](https://www.youtube.com/watch?v=yCcWpzY8dIA) - by _Martin Kleppmann_
+- [Distribution, Scale and Flexibility with ZeroMQ](https://www.youtube.com/watch?v=yhGXJ9Jt3-A) - by _Pieter Hintjens_
 - [Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0) - by _Zach Tellman_
 - [Practical Load Balancing with Consistent Hashing](https://www.youtube.com/watch?v=jk6oiBJxcaA) - by _Andrew Rodland_
 - [The Anatomy of a Distributed System](https://www.youtube.com/watch?v=1TIzPL4878Q) - by _Tyler McMullen_
