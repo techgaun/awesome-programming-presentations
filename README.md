@@ -253,6 +253,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [Globally scalable microservices with Container Engine & Cloud Load Balancing](https://www.youtube.com/watch?v=kmPBm-TQBSE) - by _Sandip Dinesh_
 - [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY) - by _R. Meshenberg_
+- [Principles Of Microservices](https://www.youtube.com/watch?v=PFQnNFe27kU) - by _Sam Newman_
 
 ## Operating Systems
 
