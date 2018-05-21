@@ -235,6 +235,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [Ethereum in 25 Minutes, Version MMXVII](https://youtu.be/mCzyDLanA7s) - by _Vitalik Buterin_
 
+## Database Systems
+
+- [PostgreSQL + ZFS: Best Practices and Standard Procedures](https://www.youtube.com/watch?v=dwMQXLOXUco) - by _Sean Chittenden_
+
 ## Distributed Systems
 
 - [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8) - by _Caitie McCaffrey_
@@ -243,10 +247,6 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0) - by _Zach Tellman_
 - [Practical Load Balancing with Consistent Hashing](https://www.youtube.com/watch?v=jk6oiBJxcaA) - by _Andrew Rodland_
 - [The Anatomy of a Distributed System](https://www.youtube.com/watch?v=1TIzPL4878Q) - by _Tyler McMullen_
-
-## Database Systems
-
-- [PostgreSQL + ZFS: Best Practices and Standard Procedures](https://www.youtube.com/watch?v=dwMQXLOXUco) - by _Sean Chittenden_
 
 ## Microservices
 
