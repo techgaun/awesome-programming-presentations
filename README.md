@@ -237,6 +237,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ## Database Systems
 
+- [Modern SQL in PostgreSQL](https://www.youtube.com/watch?v=nFfS1HmiWCM) - by _Markus Winand_
 - [PostgreSQL + ZFS: Best Practices and Standard Procedures](https://www.youtube.com/watch?v=dwMQXLOXUco) - by _Sean Chittenden_
 
 ## Distributed Systems
