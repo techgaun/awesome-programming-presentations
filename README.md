@@ -29,6 +29,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Paradigms and Principles](#paradigms-and-principles)
   - [CQRS and Event Sourcing](#cqrs-and-event-sourcing)
   - [Functional Programming](#functional-programming)
+  - [Programming Language Principles](#programming-language-principles)
 - [Cloud Computing](#cloud-computing)
 - [Computer Security](#computer-security)
 - [Cryptocurrency](#cryptocurrency)
@@ -211,6 +212,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) - by _Evan Czaplicki_
 - [Functional Programming Patterns for Mere Mortals](https://www.youtube.com/watch?v=v9QGWbGppis) - by _Daniel Chambers_
 - [Railway Oriented Programming - error handling in functional languages](https://www.youtube.com/watch?v=E8I19uA-wGY) - by _Scott Wlaschin_
+
+### Programming Language Principles
+
+- [Types, and why you should care](https://www.youtube.com/watch?v=yVuEPwNuCHw) - by _Yaron Minsky_
 
 ## Cloud Computing
 
