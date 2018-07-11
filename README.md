@@ -117,6 +117,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [The Hitchhiker's Guide to the Unexpected](https://www.youtube.com/watch?v=W0BR_tWZChQ) - by _Fred Hebert_
 - [The Joy of Connecting Elixir to the Physical World](https://www.youtube.com/watch?v=SVy7gRU_-P8) - by _Frank Hunleth_
 - [Thinking In Ecto](https://www.youtube.com/watch?v=YQxopjai0CU) - by _Darin Wilson_
+- [Well Behaved Native Implemented Functions for Elixir](https://www.youtube.com/watch?v=FYQcn9zcZVA) - by _Andrew Bennett_
 - [Writing an Editor in Elixir](https://www.youtube.com/watch?v=6lIVWVmuPao) - by _Ian Duggan_
 
 ### Erlang
