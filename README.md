@@ -16,7 +16,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [General](#general)
 - [Programming Languages](#programming-languages)
   - [Bash](#bash)
-  - [C++](#c++)
+  - [CPP](#cpp)
   - [CSS](#css)
   - [Elixir](#elixir)
   - [Erlang](#erlang)
@@ -72,7 +72,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Introduction to Advanced Bash Usage](https://www.youtube.com/watch?v=uqHjc7hlqd0) - by _James Pannacciulli_
 - [The Functional Tao of Bash](https://www.youtube.com/watch?v=yD2ekOEP9sU) - by _Garrett Smith_
 
-### C++
+### CPP
 
 - [C++ as a "Live at Head" Language](https://www.youtube.com/watch?v=tISy7EJQPzI) - by _Titus Winters_
 ### CSS
