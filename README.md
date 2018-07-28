@@ -262,6 +262,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0) - by _Zach Tellman_
 - [Practical Load Balancing with Consistent Hashing](https://www.youtube.com/watch?v=jk6oiBJxcaA) - by _Andrew Rodland_
 - [The Anatomy of a Distributed System](https://www.youtube.com/watch?v=1TIzPL4878Q) - by _Tyler McMullen_
+- [What We Talk About When We Talk About Distributed Systems](https://www.youtube.com/watch?v=yC6b0709HCw) - by _Alvaro Videla_
 
 ## Microservices
 
