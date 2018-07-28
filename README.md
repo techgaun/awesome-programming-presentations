@@ -104,6 +104,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [High availability with Elixir and Erlang](https://www.youtube.com/watch?v=Ba3aCm3A0o8) - by _Saša Jurić_
 - [Let's Get Functional With Elixir!](https://www.youtube.com/watch?v=wVrnoxNbOts) - by _Nate Taylor_
 - [Metaprogramming Elixir](https://www.youtube.com/watch?v=2Bjzml_Hpvk) - by _Chris McCord_
+- [Micropatterns: Learning to Reach Quickly for the Right Tool](https://www.youtube.com/watch?v=9uvp4h7gXHg) - by _Cameron Price_
 - [OOP in Elixir - Lightning Talk](https://www.youtube.com/watch?v=5EtV2JUU0Z4) - by _Wojtek Mach_
 - [Phoenix - Productive. Reliable. Fast](https://www.youtube.com/watch?v=STO-uN0xHDQ) - by _Chris McCord_
 - [Phoenix 1.3](https://www.youtube.com/watch?v=tMO28ar0lW8) - by _Chris McCord_
