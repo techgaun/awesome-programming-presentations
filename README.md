@@ -188,6 +188,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) - by _Raymond Hettinger_
 - [Type Hints](https://www.youtube.com/watch?v=2wDvzy6Hgxg) - by _Guido van Rossum_
 - [Understanding the Python GIL](https://www.youtube.com/watch?v=Obt-vMVdM8s) - by _David Beazley_
+- [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro) - by _James Powell_
 
 ### Ruby
 
