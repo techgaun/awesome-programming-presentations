@@ -258,6 +258,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ## Distributed Systems
 
 - [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8) - by _Caitie McCaffrey_
+- [A Brief History of Distributed Programming](https://www.youtube.com/watch?v=aDWZyYHj2XM) - by _Christopher Meiklejohn, Caitie McCaffrey_
 - [A Tour Through the Distributed System Zoo](https://www.youtube.com/watch?v=L7OTjuCIZc0) - by _Mariano Guerra_
 - [Conflict Resolution for Eventual Consistency](https://www.youtube.com/watch?v=yCcWpzY8dIA) - by _Martin Kleppmann_
 - [Distribution, Scale and Flexibility with ZeroMQ](https://www.youtube.com/watch?v=yhGXJ9Jt3-A) - by _Pieter Hintjens_
