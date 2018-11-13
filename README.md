@@ -49,6 +49,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [A Conversation with Linus Torvalds](https://www.youtube.com/watch?v=Efi9wa4Fwds)
 - [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s) - by _Neal Ford_
+- [Fork Yeah! The Rise and Development of illumos](https://www.youtube.com/watch?v=-zRN7XLCRhc) - by _Bryan Cantrill_
 - [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by _Guy Steele_
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://www.youtube.com/watch?v=YJZCUhxNCv8) by _Sean Lee_
 - [I want you to contribute to open source](https://www.youtube.com/watch?v=hwdeUG_gySI) by _Max Stoiber_
