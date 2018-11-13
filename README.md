@@ -76,6 +76,9 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ### CPP
 
 - [C++ as a "Live at Head" Language](https://www.youtube.com/watch?v=tISy7EJQPzI) - by _Titus Winters_
+- [CPU Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE) - by _Scott Meyers_
+- [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) - by _Mike Acton_
+
 ### CSS
 
 - [3.14 Things I Didn't Know About CSS - CSSconf EU 2014](https://www.youtube.com/watch?v=WjP7TEKB7Uo)
