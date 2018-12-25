@@ -66,6 +66,8 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - by _Brian Fitzpatrick & Ben Collins-Sussman_
 - [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) - by _Leslie Lamport_
 - [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) - by _Julia Evans_
+- [Blockchain Expert Explains One Concept in 5 Levels of Difficult](https://www.youtube.com/watch?v=hYip_Vuv8J0) - by _Bettina Warburg_
+- [Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty](https://www.youtube.com/watch?v=OWJCfOvochA) - by _Dr. Talia Gershon_
 
 ## Programming Languages
 
@@ -171,6 +173,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [The myth of the "Real JavaScript Developer"](https://www.youtube.com/watch?v=Xt5qpbiqw2g) - by _Brenna O'Brien_
 - [V8, modern JavaScript, and beyond](https://www.youtube.com/watch?v=N1swY14jiKc) - by _Seth Thompson_
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - by _Philip Roberts_
+- [All about React](https://www.reactjsvideos.com/#/search) - _Team Reactjsvideos_
 
 ### PHP
 
@@ -247,8 +250,9 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ## Computer Security
 
 - [Esoteric sub-domain enumeration techniques](https://www.youtube.com/watch?v=e_Gq99CKAys) - by _Bharath Kumar_
+- [A Long Day with no Cybersecurity](https://www.youtube.com/watch?v=PYXdTIwdkj0) -by _Thales_
 - [Pwned By the owner What happens when you steal a hackers computer - Defcon 18](https://www.youtube.com/watch?v=U4oB28ksiIo)
-
+- [Funny cyber security video - passwords](https://www.youtube.com/watch?v=EUZGY1gQgnw) -by _Habitu8_
 ## Cryptocurrency
 
 - [Ethereum in 25 Minutes, Version MMXVII](https://youtu.be/mCzyDLanA7s) - by _Vitalik Buterin_
