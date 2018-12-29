@@ -19,6 +19,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [CPP](#cpp)
   - [CSS](#css)
   - [Elixir](#elixir)
+  - [Elm](#elm)
   - [Erlang](#erlang)
   - [Go](#go)
   - [JavaScript](#javascript)
@@ -129,6 +130,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Thinking In Ecto](https://www.youtube.com/watch?v=YQxopjai0CU) - by _Darin Wilson_
 - [Well Behaved Native Implemented Functions for Elixir](https://www.youtube.com/watch?v=FYQcn9zcZVA) - by _Andrew Bennett_
 - [Writing an Editor in Elixir](https://www.youtube.com/watch?v=6lIVWVmuPao) - by _Ian Duggan_
+
+### Elm
+
+- [Demystifying Parsers](https://www.youtube.com/watch?v=M9ulswr1z0E) - by _Tereza Sokol_
 
 ### Erlang
 
