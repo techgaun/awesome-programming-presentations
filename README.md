@@ -147,7 +147,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Scaling Distributed Erlang](https://www.youtube.com/watch?v=usEs3GPnZDg) - by _Zandra Norman_
 - [The Zen of Erlang](https://www.youtube.com/watch?v=4ZIPijEqrNI) - by _Fred Herbert_
 
-### F# #
+### F# 
 
 - [Understanding parser combinators: a deep dive](https://www.youtube.com/watch?v=RDalzi7mhdY) - by _Scott Wlaschin_
 
