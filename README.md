@@ -21,7 +21,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Elixir](#elixir)
   - [Elm](#elm)
   - [Erlang](#erlang)
-  - [F#](#f&#35;)
+  - [F#](#f)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [PHP](#php)
