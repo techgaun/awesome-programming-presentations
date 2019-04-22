@@ -21,6 +21,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Elixir](#elixir)
   - [Elm](#elm)
   - [Erlang](#erlang)
+  - [F#](#f#)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [PHP](#php)
@@ -145,6 +146,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [How We Program Multicores](https://www.youtube.com/watch?v=bo5WL5IQAd0) - by _Joe Armstrong_
 - [Scaling Distributed Erlang](https://www.youtube.com/watch?v=usEs3GPnZDg) - by _Zandra Norman_
 - [The Zen of Erlang](https://www.youtube.com/watch?v=4ZIPijEqrNI) - by _Fred Herbert_
+
+### F#
+
+- [Understanding parser combinators: a deep dive](https://www.youtube.com/watch?v=RDalzi7mhdY) - by _Scott Wlaschin_
 
 ### Go
 
