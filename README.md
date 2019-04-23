@@ -109,6 +109,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Elixir Native UI](https://www.youtube.com/watch?v=77FW-jrCyCs) - by _Boyd Multerer_
 - [Elixir Power Tracing](https://www.youtube.com/watch?v=NBmNDI9OFJk) - by _Gabi Zuniga_
 - [GenStage in the Kitchen](https://www.youtube.com/watch?v=M78r_PDlw2c) - by _Claudio Ortolina_
+- [Go vs Elixir: A concurrency comparison](https://www.youtube.com/watch?v=SbRvX1CQ9ic) - by _Anna Neyzberg_ and _Hannah Howard_
 - [High availability with Elixir and Erlang](https://www.youtube.com/watch?v=Ba3aCm3A0o8) - by _Saša Jurić_
 - [Introducing HDD: Hughes Driven Development](https://www.youtube.com/watch?v=x2ckfhqB9nA) - by _José Valim_
 - [Let's Get Functional With Elixir!](https://www.youtube.com/watch?v=wVrnoxNbOts) - by _Nate Taylor_
