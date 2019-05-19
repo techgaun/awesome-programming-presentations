@@ -37,6 +37,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Computer Security](#computer-security)
 - [Cryptocurrency](#cryptocurrency)
 - [Database Systems](#database-systems)
+- [DevOps](#devops)
 - [Distributed Systems](#distributed-systems)
 - [Microservices](#microservices)
 - [Operating Systems](#operating-systems)
@@ -274,6 +275,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [PostgreSQL + ZFS: Best Practices and Standard Procedures](https://www.youtube.com/watch?v=dwMQXLOXUco) - by _Sean Chittenden_
 - [Transactions: myths, surprises and opportunities](https://www.youtube.com/watch?v=5ZjhNTM8XU8) - by _Martin Kleppmann_
 - [Tuning PostgreSQL for High Write Workloads](https://www.youtube.com/watch?v=xrMbzHdPLKM) - by _Grant McAlister_
+
+## DevOps
+
+- [How Netflix Thinks of DevOps](https://www.youtube.com/watch?v=UTKIT6STSVM) - by _Dave Hahn_
 
 ## Distributed Systems
 
