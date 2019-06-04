@@ -321,7 +321,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Perfectly Executing The Wrong Plan](https://www.youtube.com/watch?v=9TJTbRw4ri8) - by _Tomer Sharon_
 - [Programming is terrible — Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c) - by _Thomas Figg_
 - [Single Point of Failure: The (Fictional) Day Google Forgot To Check Passwords](https://www.youtube.com/watch?v=y4GB_NDU43Q) - by _Tom Scott_
-- [Tail Call Optimization: The Musical!!](https://www.youtube.com/watch?v=EnDknmMXxFY) - by _Anjana Vakil & Natalia Margolis_
+- [Tail Call Optimization: The Musical!!](https://www.youtube.com/watch?v=-PX0BV9hGZY) - by _Anjana Vakil & Natalia Margolis_
 - [The Birth & Death of Javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - by _Gary Bernhardt_
 - [The Social Coding Contract](https://www.youtube.com/watch?v=e_-qV8waPVM) - by _Justin Searls_
 - [The Worst Programming Language](https://www.infoq.com/presentations/worst-programming-language) by _Mark Rendle_
