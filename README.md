@@ -319,7 +319,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Life is Terrible: Lets Talk About The Web](https://vimeo.com/111122950) - by _James Mickens_
 - [Not Even Close: The State of Computer Security](https://www.youtube.com/watch?v=tF24WHumvIc) - by _James Mickens_
 - [Perfectly Executing The Wrong Plan](https://www.youtube.com/watch?v=9TJTbRw4ri8) - by _Tomer Sharon_
-- [Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
+- [Programming is terrible — Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c) - by _Thomas Figg_
 - [Single Point of Failure: The (Fictional) Day Google Forgot To Check Passwords](https://www.youtube.com/watch?v=y4GB_NDU43Q) - by _Tom Scott_
 - [Tail Call Optimization: The Musical!!](https://www.youtube.com/watch?v=EnDknmMXxFY) - by _Anjana Vakil & Natalia Margolis_
 - [The Birth & Death of Javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) - by _Gary Bernhardt_
