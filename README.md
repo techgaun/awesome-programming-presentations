@@ -9,7 +9,7 @@
 
 Don't know where to start? ➔ [Start here](#fun-to-watch).
 
-If you need some inspiration, [start with this](https://www.youtube.com/watch?v=Vhh_GeBPOhs) or listen to [this song](https://soundcloud.com/smixx/smixx-developers-feat-steve).
+If you need some inspiration, [start with this](https://www.youtube.com/watch?v=Vhh_GeBPOhs) or listen to [this song](https://soundcloud.com/smixx/smixx-developers-feat-steve) or [this one](https://www.youtube.com/watch?v=yqTpG5obPV8).
 
 ## Table of Contents
 
