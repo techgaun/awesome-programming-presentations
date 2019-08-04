@@ -149,6 +149,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Erlang Performance Lab](https://www.youtube.com/watch?v=ncedupb-Rqw) - by _Michal Slaski_
 - [How We Program Multicores](https://www.youtube.com/watch?v=bo5WL5IQAd0) - by _Joe Armstrong_
 - [Scaling Distributed Erlang](https://www.youtube.com/watch?v=usEs3GPnZDg) - by _Zandra Norman_
+- [Scaling Erlang cluster to 10,000 nodes](https://www.youtube.com/watch?v=FJQyv26tFZ8) - by _Maxim Fedorov_
 - [The Zen of Erlang](https://www.youtube.com/watch?v=4ZIPijEqrNI) - by _Fred Herbert_
 
 ### F&#35;
