@@ -192,6 +192,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ### PHP
 
+- [25 Years of PHP](https://www.youtube.com/watch?v=wCZ5TJCBWMg) - by _Rasmus Lerdorf_
 - [PHP in 2017](https://www.youtube.com/watch?v=fYTKm2oUzAg) - by _Rasmus Lerdorf_
 
 ### Python
