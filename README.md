@@ -314,8 +314,8 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Early days of Unix and design of sh](https://www.youtube.com/watch?v=FI_bZhV7wpI) - by _Stephen R. Bourne_
 - [Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD Important Milestones and Lesson](https://www.youtube.com/watch?v=FbDebSinSQo) - by _Diomidis Spinellis_
 
-## Software Testing
-
+## Software Testing & Automation
+- [Modern Web Testing and Automation with Puppeteer](https://www.youtube.com/watch?v=MbnATLCuKI4)
 - [Integrated Tests Are A Scam](https://vimeo.com/80533536) - by _https://vimeo.com/80533536_
 
 ## Miscellaneous
