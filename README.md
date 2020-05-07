@@ -177,6 +177,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ### JavaScript
 
+- [10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA) - by _Ryan Dahl_
 - [A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) - by _Lin Clark_
 - [A Cartoon Intro to WebAssembly](https://www.youtube.com/watch?v=HktWin_LPf4) - by _Lin Clark_
 - [Benchmarking Javascript](https://www.youtube.com/watch?v=g0ek4vV7nEA) - by _Vyacheslav Egorov_
