@@ -1,6 +1,6 @@
 language: ruby
-rvm: 2.2
+rvm: 2.6
 before_script: gem install awesome_bot
-script: awesome_bot README.md --white-list travis-ci --allow 302
+script: awesome_bot README.md --white-list travis-ci --allow 302,403
 notifications:
   email: false
