@@ -30,7 +30,8 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Scala](#scala)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Paradigms and Principles](#paradigms-and-principles)
-  - [CQRS and Event Sourcing](#cqrs-and-event-sourcing)
+  - [Event-Driven Architecture](#event-driven-architecture)
+    - [CQRS and Event Sourcing](#cqrs-and-event-sourcing)
   - [Functional Programming](#functional-programming)
   - [Programming Language Principles](#programming-language-principles)
 - [Cloud Computing](#cloud-computing)
@@ -238,7 +239,11 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ## Paradigms and Principles
 
-### CQRS and Event Sourcing
+### Event-Driven Architecture
+
+- [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0) - by _Martin Fowler_
+
+#### CQRS and Event Sourcing
 
 - [A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s) - by _Greg Young_
 - [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs) - by _Greg Young_
