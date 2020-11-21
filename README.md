@@ -270,7 +270,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ## Computer Security
 
 - [Esoteric sub-domain enumeration techniques](https://www.youtube.com/watch?v=e_Gq99CKAys) - by _Bharath Kumar_
-- [Pwned By the owner What happens when you steal a hackers computer - Defcon 18](https://www.youtube.com/watch?v=U4oB28ksiIo)
+- [Pwned By the owner: What happens when you steal a hackers computer - Defcon 18](https://www.youtube.com/watch?v=Jwpg-AwJ0Jc) - by _Zoz_
 
 ## Cryptocurrency
 
