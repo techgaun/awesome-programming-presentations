@@ -61,6 +61,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [I want you to contribute to open source](https://www.youtube.com/watch?v=hwdeUG_gySI) by _Max Stoiber_
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) - by _Julie Pagano_
 - [Linux Kernel Development](https://www.youtube.com/watch?v=vyenmLqJQjs) - by _Greg Kroah-Hartman_
+- [Moving Fast At Scale](https://www.youtube.com/watch?v=suOjtOFfyZg) - by _Randy Shoup_
 - [Overkill](https://www.youtube.com/watch?v=GWEEPt8VvmU) - by _Katrina Owen_
 - [System We Love](https://www.youtube.com/watch?v=TPe6UXMDMGM)
 - [Systems programming as a swiss army knife](https://www.youtube.com/watch?v=HfD9IMZ9rKY) - by _Julia Evans_
