@@ -295,6 +295,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ## DevOps
 
 - [How Netflix Thinks of DevOps](https://www.youtube.com/watch?v=UTKIT6STSVM) - by _Dave Hahn_
+- [Modern Continuous Delivery](https://www.youtube.com/watch?v=wjF4X9t3FMk) - by _Ken Mugrage_
 - [Tracing, Fast and Slow: Digging into & improving your web service’s performance](https://www.youtube.com/watch?v=pprCOMmGnS0) - by _Lynn Root_
 
 ## Distributed Systems
