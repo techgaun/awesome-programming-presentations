@@ -241,6 +241,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 ### Event-Driven Architecture
 
+- [Creating event-driven microservices: the why, how and what](https://www.youtube.com/watch?v=ksRCq0BJef8) - by _Andrew Schofield_
 - [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0) - by _Martin Fowler_
 
 #### CQRS and Event Sourcing
