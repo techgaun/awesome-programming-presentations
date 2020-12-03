@@ -248,6 +248,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s) - by _Greg Young_
 - [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs) - by _Greg Young_
+- [DDD, event sourcing and CQRS – theory and practice](https://www.youtube.com/watch?v=rolfJR9ERxo) - by _Golo Roden_
 - [Scaling Event Sourcing for Netflix Downloads](https://www.youtube.com/watch?v=rsSld8NycCU) - by _Phillipa Avery_ and _Robert Reta_
 
 ### Functional Programming
