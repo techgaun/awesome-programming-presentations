@@ -306,6 +306,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [A Brief History of Distributed Programming](https://www.youtube.com/watch?v=aDWZyYHj2XM) - by _Christopher Meiklejohn, Caitie McCaffrey_
 - [A Tour Through the Distributed System Zoo](https://www.youtube.com/watch?v=L7OTjuCIZc0) - by _Mariano Guerra_
 - [Conflict Resolution for Eventual Consistency](https://www.youtube.com/watch?v=yCcWpzY8dIA) - by _Martin Kleppmann_
+- [CRDTs and the Quest for Distributed Consistency](https://www.youtube.com/watch?v=B5NULPSiOGw) - by _Martin Kleppmann_
 - [Distribution, Scale and Flexibility with ZeroMQ](https://www.youtube.com/watch?v=yhGXJ9Jt3-A) - by _Pieter Hintjens_
 - [Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0) - by _Zach Tellman_
 - [Jepsen 9: A Fsyncing Feeling](https://www.youtube.com/watch?v=tRc0O9VgzB0) - by _Kyle Kingsbury_
