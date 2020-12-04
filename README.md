@@ -28,6 +28,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
   - [Python](#python)
   - [Ruby](#ruby)
   - [Scala](#scala)
+- [APIs](#apis)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Paradigms and Principles](#paradigms-and-principles)
   - [Event-Driven Architecture](#event-driven-architecture)
@@ -230,7 +231,11 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 
 - [Striving to Make Things Simple and Fast](https://www.youtube.com/watch?v=K2NYwP90bNs) - by _Phil Bagwell_
 
-### Artificial Intelligence
+## APIs
+
+- [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw) - by _Joshua Bloch_
+
+## Artificial Intelligence
 
 - [Large-Scale Deep Learning with TensorFlow](https://www.youtube.com/watch?v=vzoe2G5g-w4) - by _Jeff Dean_
 - [Self-Driving Lessons from Comma AI](https://www.youtube.com/watch?v=IxuU5L2MEII) - by _George Hotz_
