@@ -74,6 +74,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [The Motivation for a Monolithic Codebase](https://www.youtube.com/watch?v=W71BTkUbdqE) - by _Rachel Potvin_
 - [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - by _Brian Fitzpatrick & Ben Collins-Sussman_
 - [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) - by _Leslie Lamport_
+- [Unlocking the iPhone](https://www.youtube.com/watch?v=8CWDpBo2Cps) - by 17yo _George Hotz_
 - [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) - by _Julia Evans_
 
 ## Programming Languages
