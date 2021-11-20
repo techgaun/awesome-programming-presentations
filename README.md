@@ -337,8 +337,10 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD Important Milestones and Lesson](https://www.youtube.com/watch?v=FbDebSinSQo) - by _Diomidis Spinellis_
 
 ## Software Testing & Automation
-- [Modern Web Testing and Automation with Puppeteer](https://www.youtube.com/watch?v=MbnATLCuKI4)
-- [Integrated Tests Are A Scam](https://vimeo.com/80533536) - by _https://vimeo.com/80533536_
+
+- [Integrated Tests Are A Scam](https://vimeo.com/80533536) - by _J.B. Rainsberger_
+- [Modern Web Testing and Automation with Puppeteer](https://www.youtube.com/watch?v=MbnATLCuKI4) - by _Andrey Lushnikov and Joel Einbinder_
+- [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) - by _Sandi Metz_
 
 ## Miscellaneous
 
