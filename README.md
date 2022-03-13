@@ -261,9 +261,11 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) - by _Evan Czaplicki_
 - [Functional Programming Patterns for Mere Mortals](https://www.youtube.com/watch?v=v9QGWbGppis) - by _Daniel Chambers_
 - [Railway Oriented Programming - error handling in functional languages](https://www.youtube.com/watch?v=E8I19uA-wGY) - by _Scott Wlaschin_
+- [Why Isn't Functional Programming the Norm?](https://youtu.be/QyJZzq0v7Z4) - by _Richard Feldman_
 
 ### Programming Language Principles
 
+- [Clean Code - Uncle Bob](https://youtu.be/7EmboKQH8lM) - by _Robert Cecil Martin_
 - [Types, and why you should care](https://www.youtube.com/watch?v=yVuEPwNuCHw) - by _Yaron Minsky_
 
 ## Cloud Computing
@@ -325,6 +327,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 - [Deploying And Scaling Microservices](https://www.youtube.com/watch?v=sO0RKuVhfw4) - by _Sam Newman_
 - [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc) - by _Michael Bryzek_
 - [Globally scalable microservices with Container Engine & Cloud Load Balancing](https://www.youtube.com/watch?v=kmPBm-TQBSE) - by _Sandip Dinesh_
+- [Mastering Chaos - A Netflix Guide to Microservices](https://youtu.be/CZ3wIuvmHeM) - by _Josh Evans_
 - [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY) - by _R. Meshenberg_
 - [Principles Of Microservices](https://www.youtube.com/watch?v=PFQnNFe27kU) - by _Sam Newman_
 - [The Seven (More) Deadly Sins of Microservices](https://www.youtube.com/watch?v=NP189MPfR7Q) - by _Daniel Bryant_
