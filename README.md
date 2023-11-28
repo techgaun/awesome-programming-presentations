@@ -286,6 +286,7 @@ If you need some inspiration, [start with this](https://www.youtube.com/watch?v=
 ## Computer Security
 
 - [Esoteric sub-domain enumeration techniques](https://www.youtube.com/watch?v=e_Gq99CKAys) - by _Bharath Kumar_
+- [Knocking my neighbors kids cruddy drone offline](https://www.youtube.com/watch?v=5CzURm7OpAA) - by _Michael Robinson_
 - [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - by _Nate Barbettini_
 - [Pwned By the owner: What happens when you steal a hackers computer - Defcon 18](https://www.youtube.com/watch?v=Jwpg-AwJ0Jc) - by _Zoz_
 
